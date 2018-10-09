@@ -56,3 +56,30 @@ unset -f source_bash_files
 # and time of the last login, the message of the day, etc.).
 
 clear
+function blt() {
+  if [ "`git rev-parse --show-cdup 2> /dev/null`" != "" ]; then
+    GIT_ROOT=$(git rev-parse --show-cdup)
+  else
+    GIT_ROOT="."
+  fi
+
+  if [ -f "$GIT_ROOT/vendor/bin/blt" ]; then
+    $GIT_ROOT/vendor/bin/blt "$@"
+  else
+    echo "You must run this command from within a BLT-generated project repository."
+    return 1
+  fi
+}
+export GPG_TTY=$(tty)
+export PATH="$HOME/.composer/vendor/bin:$PATH"
+export PATH="/usr/local/opt/php@7.1/bin:$PATH"
+export PATH="/usr/local/opt/php@7.1/sbin:$PATH"
+export PATH="/usr/local/opt/php@5.6/bin:$PATH"
+export PATH="/usr/local/opt/php@5.6/sbin:$PATH"
+export GEM_HOME="$HOME/.gem/ruby/2.0.0"
+export GEM_PATH="$HOME/.gem/ruby/2.0.0"
+
+
+export PATH="$PATH:/Applications/DevDesktop/tools"
+export PATH="/usr/local/opt/php@7.1/bin:$PATH"
+export PATH="/usr/local/opt/php@7.1/sbin:$PATH"
