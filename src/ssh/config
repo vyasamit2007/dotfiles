@@ -1,0 +1,5 @@
+Host *
+  IdentityFile /Users/amit.vyas/.ssh/id_rsa
+  AddKeysToAgent yes
+  UseKeychain yes
+  LogLevel ERROR
