@@ -1,0 +1,6199 @@
+git status
+ls -al
+vim .bashrc 
+ls -al
+brew ugrade brew
+brew
+brew update
+sudo chown -R $(whoami) /usr/local/var/homebrew
+brew update
+ls -al /usr/local/
+whoami
+cd
+ls -al
+sudho chmod -Rf 777 /usr/local/*
+sudo chmod -Rf 777 /usr/local/*
+brew update
+cd projects/nestle-corporate/
+composer install
+composer clear-cache
+composer install
+pbcopy ~/.ssh/id_rsa.pub 
+composer install
+git clone --no-checkout 'ssh://git@52.166.71.39:7999/lightnest/dsu_store.git'
+cd projects/nestle-corporate/
+composer install
+bash -c "$(curl -LsS https://raw.github.com/alrra/dotfiles/master/src/os/setup.sh)"
+ls -al
+clear
+ls -al
+cd projects/
+ls -al
+git clone git@github.com:vyasamit2007/nestle-corporate.git
+git clone git@github.com:vyasamit2007/tateandlyle.git
+git clone git@github.com:vyasamit2007/tatelyle.git
+git clone git@github.com:vyasamit2007/novartis-corp.git
+ls -al ~/.ssh/
+cd
+ls -al
+cd .ssh/
+ls -al
+cd config 
+ls -al
+vim config 
+vim github 
+vim ~/.ssh/id_rsa.pub
+clear
+cd
+pbcopy < ~/.ssh/id_rsa.pub 
+cd projects/nestle-corporate/
+composer install
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew tap homebrew/dupes; brew tap homebrew/versions; brew tap homebrew/homebrew-php;
+composer run-script nuke
+brew install php56 git composer drush
+php -v
+git composer drush
+composer global require "hirak/prestissimo:^0.3"
+brew tap caskroom/cask
+mv ~/.ssh/github id_rsa
+composer install
+ssh-keygen -t rsa -b 4096 -C "vyasamit2007@gmail.com"
+eval "$(ssh-agent -s)"
+vim ~/.ssh/config
+ssh-add -K ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub 
+brew cask install virtualbox vagrant
+composer clear-cache
+composer install
+vim composer.json 
+ls -al
+git checkout nestle-corporate
+git checkout nestle-careers
+git fetch --all
+git remote add upstream git@github.com:acquia-pso/nestle-corporate.git
+git fetch --all
+git checkout nestle-careers
+git reset --hard upstream/nestle-careers
+vagrant plugin install vagrant-hostsupdater
+npm -v
+nvm -v
+node -v
+brew cask install java
+composer install
+vim composer.json 
+ls -al
+cd docroot/profiles/contrib/lightnest/
+ls -al
+vim composer.json 
+cd ../lightning/
+ls -al
+vim composer.json 
+cd ../../../../vendor/acquia/blt/composer.json 
+cd ../../../../vendor/acquia/blt
+vim composer.json 
+vim composer.required.json 
+vim composer.suggested.json 
+vim composer.required.json 
+vim composer.json 
+cd ../../../
+vim composer.json 
+vim composer.dsu_repositories.json 
+find -a '2815221-87'
+find -f . '2815221-87'
+find --name=2815221-87
+gpg --full-generate-key
+brew install gpg2
+gpg --full-generate-key
+gpg --list-secret-keys --keyid-format LONG
+gpg --armor --export A18341AE6AD5C14E
+git status
+composer install
+blt vm
+composer run-script blt-alias
+source /Users/amit.vyas/.bash_profile
+cd projects/nestle-corporate/
+git checkout -b LCP-00-Drupal-Core-Update
+git status
+composer require drupal/core:^8.5.0
+blt vm
+git status
+git diff
+git status
+git diff
+git status
+git checkout docroot/.htaccess 
+git checkout docroot/sites/default/default.settings.php
+git status
+git add composer.*
+git status
+git commit -m 'LCP-00: Update drupal core to 8.5.1 for security release.'
+git config --global user.email 'vyasamit2007@gmail.com'
+git config --global user.name 'vyasamit2007'
+git commit -m 'LCP-00: Update drupal core to 8.5.1 for security release.'
+git config --global user.name 'vyasamit2007'
+git config --global user.email 'vyasamit2007@gmail.com'
+git config --global user.email "vyasamit2007@gmail.com"
+git config --global user.name "vyasamit2007"
+git commit -m 'LCP-00: Update drupal core to 8.5.1 for security release.'
+git config --global -l
+git status
+git commit -m 'LCP-00: Update drupal core to 8.5.1 for security release.'
+vim ~/.gitconfig.local 
+git commit -m 'LCP-00: Update drupal core to 8.5.1 for security release.'
+git push
+cd
+ls -al
+vim .gitconfig
+ls -al
+vim .gitconfig
+history | grep 'gpg'
+gpg-agent -s --daemon --write-env-file --use-standard-socket
+gpg --list-secret-keys --keyid-format LONG
+vim ~/.gitconfig.local 
+echo 'export GPG_TTY=$(tty)' >> ~/.bash_profile
+source ~/.bash_profile 
+cd projects/nestle-corporate/
+ls -al
+vim docroot/sites/default/settings.php 
+vim vendor/acquia/blt/settings/blt.settings.php 
+blt
+vim docroot/sites/default/settings.php 
+cd docroot/sites/default/settings/
+ls -al
+vim search.settings.php
+git status
+git diff
+git status
+vim ../settings.php 
+vim search.settings.php 
+git status
+blt vm
+vagrant status
+ls -al
+chmod -f 766
+chmod -f 766 search.settings.php 
+ls -al
+chmod -f 755 search.settings.php 
+ls -al
+cd ../../../
+ls -al
+git status
+git add sites/default/settings.php sites/default/settings/search.settings.php
+git status
+git diff
+git add *
+git status
+git commit -m "LCP-00: Added search related settings & other default files."
+git status
+vagrant status
+ls -al sites/default/
+chmod -f 755 sites/default/settings.php 
+ls -al sites/default/
+drush @nestle.local status
+vim /etc/hosts
+sudo vim /etc/hosts
+drush @nestle.local status
+ls -al
+cd ../
+ls -al
+cd drush
+ls -al
+cd ../
+ls -al
+drush @nestle.local status
+vagrant status
+vagrant reload
+drush @nestle.local status
+git status
+git diff
+sudo chmod 644 docroot/sites/default/settings.php 
+git status
+drush @nestle.local en cog
+ls -al
+cd drush
+ls -al
+cd site-aliases/
+ls -al
+cd ../../../
+cd nestle-corporate/
+ls -al
+ls -al docroot/sites/
+ls -al docroot/sites/default/
+sudo chmod 744 docroot/sites/default/settings.php 
+git status
+git diff
+ls -al
+drush @nestle.local status
+composer create-project --no-interaction acquia/blt-project my-project
+cd projects/
+composer create-project --no-interaction acquia/blt-project my-project
+composer create-project --no-interaction acquia/blt-project okr
+cd okr/
+ls -al
+blt vm
+vim blt/blt.yml 
+blt setup
+blt vm
+vagrant up
+drush @nestle.local uli
+drush @nestle.local en acquia_search
+git checkout nestle-careers
+git fetch --all
+git status
+git checkout -b LCP-70-search-config
+git status
+drush @nestle.local cex
+git status
+drush @nestle.local cex
+git status
+git diff
+drush @nestle.local cex
+git status
+git diff
+git status
+git add *
+git status
+git commit -m 'LCP-70: Setup acquia search configurations for Acquia & local search.'
+git status
+mkdir config/envs/stage
+cd config/envs/stage/
+ls -al
+cat autologout.settings.yml 
+:q
+cd projects/nestle-corporate/
+git status
+drush @nestle.local cex
+git diff
+git status
+git add *
+git status
+git commit -m 'LCP-70: separated the search with local split & acquia search + added stage split.'
+git push
+git push --set-upstream origin LCP-70-search-config
+git status
+blt vm:nuke && blt vm
+cd projects/okr/
+ls -al docroot/sites/default/
+sudo chmod -f 744 docroot/sites/default/settings.php 
+ls -al docroot/sites/default/
+sudo chmod -f 644 docroot/sites/default/settings.php 
+ls -al docroot/sites/default/
+ls -al docroot/sites/
+sudo chmod -f 644 docroot/sites/default
+sudo sudo chmod -f 644 docroot/sites/default
+ls -al docroot/sites/
+ls -al docroot/sites/
+sudo sudo chmod -f 777 docroot/sites/default
+git status
+ls -al docroot/sites/
+ls -al docroot/sites/default
+drush sa
+git status
+git diff
+git status
+git add docroot/sites/default/settings.php 
+git status
+git commit -m 'LCP-70: Configure Acquia Cloud SF settings overrides in settings.php.'
+git push
+vagrant status
+drush @nestle.local uli
+drush sa
+cd ../
+drush sa
+cd nestle-corporate/
+ls -al
+drush acquia-update
+tar -C $HOME -xf $HOME/Downloads/acquiacloud.tar.gz
+drush acquia-update
+drush sa
+cd ~/.acquia/
+ls -al
+drush
+drush sa
+cd ../.drush/
+ls -al
+drush cc drush
+cd ../projects/nestle-corporate/
+drush cc drush
+drush sa
+drush cc drush
+drush sa
+composer global require consolidation/cgr
+export PATH="$HOME/.composer/vendor/bin:$PATH" ~/.bash.local 
+export PATH="$HOME/.composer/vendor/bin:$PATH" ~/.bash_profile 
+vim ~/.bash_profile 
+source ~/.bash_profile 
+cgr drush/drush
+drush status
+drush sa
+cgr update drush/drush
+drush acquia-update
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com status
+drush @nestledsu2.01test2 -l careers.test2-nestledsu2.acsitefactory.com status
+drush status
+cd ../
+drush status
+cgr drush/drush:^8.1
+drush status
+drush sa
+drush @nestledsu2.01test2 -l careers.test2-nestledsu2.acsitefactory.com status
+pbcopy < ~/.ssh/id_rsa.pub 
+drush @nestledsu2.01test2 -l careers.test2-nestledsu2.acsitefactory.com status
+vim ~/.ssh/config 
+vim /Users/amit.vyas/.ssh/id_rsa
+vim ~/.ssh/config 
+vim /Users/amit.vyas/.ssh/id_rsa.pub 
+pbcopy < ~/.ssh/id_rsa.pub 
+drush @nestledsu2.01test2 -l careers.test2-nestledsu2.acsitefactory.com status
+drush cc drush
+drush @nestledsu2.01test2 -l careers.test2-nestledsu2.acsitefactory.com status
+drush @tateandlyle.prod -l www.tateandlyle.com status
+drush @tatelylecom.prod -l www.tateandlyle.com status
+cd ~/.ssh
+ls -l
+rm -f id_rsa*
+sl -al
+ls -al
+ssh-keygen -b 4096
+pbcopy < ~/.ssh/id_rsa.pub
+drush @tatelylecom.prod -l www.tateandlyle.com status
+drush cc drush
+drush @tatelylecom.prod -l www.tateandlyle.com status
+drush @nestledsu2.01test -l careers.test-nestledsu2.acsitefactory.com status
+drush @nestledsu2.01test -l careers.test-nestledsu2.acsitefactory.com uli
+cd ~/projects/nestle-corporate/
+git status
+git add docroot/sites/default/settings.php 
+git status
+git diff
+git status
+git add docroot/sites/default/settings.php 
+git status
+git commit -m 'LCP-70: Fixing the search solr issue on ACSF env.'
+git push
+drush sa
+drush @nestledsu2.01test2.livedev ssh
+git status
+git add *
+git status
+git commit -m 'LCP-70: Configurations added in factory-hooks post settings file instead of settings.php.'
+git push
+history | grep 'drush @nestledsu2.01test2 -l careers.test2-nestledsu2.acsitefactory.com'
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ config-get "system.menu.secondary-menu" uuid
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ pmu lcp_nestle_content
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ en lcp_nestle_content
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ en lcp_nestle_content
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ uli
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ lcpcmf
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ cr
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ lcpcmf
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ cache-clear drush
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ cache-clear drush
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ cache-clear lcpcmf
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ lcpcmf
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ lcpcmf
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ cr
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ cc drush
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ lcpcmf
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ cache-clear drush
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ lcpcmf
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ cache-clear drush
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ lcpcmf
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ cache-clear drush
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ lcpcmf
+drush sa
+drush @nestledsu2.01live -l www.nesquikstudios.ee uli
+git checkout nestle-careers
+git status
+git fetch --all
+pbcopy < ~/.ssh/id_rsa.pub
+git fetch --all
+git reset --hard upstream/nestle-careers
+git push origin nestle-careers
+blt vm
+blt
+blt example:init
+blt validate:phpcs
+git status
+git reset --hard
+git status
+git reset --hard
+blt validate:phpcs
+blt fix:phpcbf
+blt validate:phpcs
+blt fix:phpcbf
+blt validate:phpcs
+git status
+git checkout -b LCP-00-PHPCS-Fixes
+git status
+git diff
+git status
+git add *
+git status
+git commit -m 'LCP-00: PHPCS Fix & enabling phpcs validate task of BLT.'
+git push
+drush en faq_ask -y
+drush @nestle.local en faq_ask -y
+drush @nestle.local en qa
+drush @nestle.local en qa_accounts
+blt frontend
+blt
+blt frontend:build
+drush @nestle.local cr
+blt setup
+drush drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com clear-cache drush
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com clear-cache drush
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com cache-clear drush
+drush @nestledsu2.01test2 -dv -l http://careers.test2-nestledsu2.acsitefactory.com lcpcmf
+drush @nestledsu2.01test2 -dv -l http://careers.test2-nestledsu2.acsitefactory.com cc drush
+drush @nestledsu2.01test2 -dv -l http://careers.test2-nestledsu2.acsitefactory.com lcpcmf
+drush @nestledsu2.01test2 -dv -l http://careers.test2-nestledsu2.acsitefactory.com status
+history | grep 'content'
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ pmu lcp_nestle_content
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ en lcp_nestle_content
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ pmu lcp_nestle_content
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ en lcp_nestle_content
+drush @nestledsu2.01test -dv -l http://careers.test-nestledsu2.acsitefactory.com lcpcmf
+history | grep 'amit.vyas'
+drush drush urol
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com ucrt amit.vyas --password=synopsis12# --mail=amit.vyas@acquia.com
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com upwd --password=synopsis12# --mail=amit.vyas@acquia.com
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com upwd amit.vyas --password=synopsis12#
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com urol administrator amit.vyas
+cd projects/tateandlyle/
+composer install
+blt setup
+drush sa
+drush @nestledsu2.01test2.livedev ssh
+blt vm
+drush @nestledsu2.01test2.livedev -l http://careers.test2-nestledsu2.acsitefactory.com cget 'shield.setttings'
+drush @nestledsu2.01test2.livedev -l http://careers.test2-nestledsu2.acsitefactory.com cget 'shield.settting'
+drush @nestledsu2.01test2.livedev -l http://careers.test2-nestledsu2.acsitefactory.com cget 'shield'
+drush @nestledsu2.01test2.livedev -l http://careers.test2-nestledsu2.acsitefactory.com pmi shield'
+drush @nestledsu2.01test2.livedev -l http://careers.test2-nestledsu2.acsitefactory.com pmi shield
+drush @nestledsu2.01test2.livedev -l http://careers.test2-nestledsu2.acsitefactory.com cget shield.settings
+cd projects/nestle-corporate/
+ls -al
+git checkout nestle-careers
+git fetch --all
+git reset --hard upstream/nestle-careers
+git push origin nestle-careers
+blt vm
+drush @nestle.local uli
+cd projects/tateandlyle/
+git fetch --all
+git checkout develop
+git git diff
+git status
+git stage
+git add *
+git stage
+git status
+git reset --hard
+git checkout develop
+git fetch --all
+git remote add upstream git@github.com:acquia-pso/tateandlyle.git
+git fetch --all
+git reset --hard upstream/develop
+git push origin develop
+node -v
+blt vm
+blt 
+vagrant status
+drush sa
+blt vm
+drush @novartisemmea -l http://dev.novartis.com/ uli
+drush @novartisemea -l http://dev.novartis.com/ uli
+drush @novartishcpemea.dev -l http://dev.novartis.com/ uli
+drush @novartisemea.dev -l http://dev.novartis.com/ uli
+drush @novartisemea.dev -l http://dev.novartis.com/ uli --no-browser
+history | grep 'novartisoncology.es'
+drush @novartisemea.dev -l http://dev.novartisoncology.es/ uli --no-browser
+vagrant status
+blt frontend
+cd docroot/themes/custom/tateandlyle/
+ls -al
+npm install
+gulp
+gulp build
+ls -al
+vim Gulpfile.js
+gulp watch
+cd ../../../../
+vagrant ssh
+drush @tatelylecom.local status
+vagrant ssh
+drush @tatelylecom.local status
+vagrant ssh
+cd projects/nestle-corporate/
+git fetch --all
+git reset --hard upstream/nestle-careers
+git push origin nestle-careers
+vagrant up
+drush @nestle.local uli
+blt frontend
+blt fronend:build
+blt frontend:build
+drush @nestle.local cmi
+drush @nestle.local cim
+composer install
+composer update lightnest
+drush @nestle.local cim
+blt setup
+git diff
+git status
+drush @nestle.local uli
+pbcopy < ~/.ssh/id_rsa.pub
+composer require lightnest/lightnest:^3.0 --no-update
+composer require lightnest/lightnest:^3.0 --no-update && composer update
+composer update
+git diff
+git diff | grep dsu_c_
+git diff
+git status
+composer require lightnest/lightnest:^3.1 --no-update && composer update
+composer cache-clear
+composer clear-cache
+composer update
+composer require lightnest/lightnest:^3.1.2 --no-update && composer update
+composer require lightnest/lightnest:^3.1.2 --no-update
+composer update
+composer require drupal/slick_paragraphs:1.0@rc --no-update
+php -v
+history | grep 'php72'
+history | grep 'php'
+brew install php71
+brew unlink php72 && brew link php71
+brew link php71
+brew install php71
+brew reinstall php@7.1
+php -v
+echo 'export PATH="/usr/local/opt/php@7.1/bin:$PATH"' >> ~/.bash_profile
+echo 'export PATH="/usr/local/opt/php@7.1/sbin:$PATH"' >> ~/.bash_profile
+brew link php71
+php -v
+brew unlink php*
+brew unlink php71
+brew link php71
+brew link php71 --force
+php -v
+composer require drupal/slick_paragraphs:1.0@rc --no-update
+drush @nestle.local en slick_paragraphs
+composer require drupal/slick_paragraphs:1.0@rc --with-dependencies
+composer require drupal/slick_paragraphs:1.0@rc --no-update
+composer require drupal/slick:^1.0 --no-update
+composer require drupal/blazy:1.0@rc --no-update
+composer require drupal/blazy:1.0-rc2 --no-update
+composer require drupal/slick_paragraphs:1.0-rc1 --no-update
+composer update
+composer require drupal/slick_paragraphs:^1.0@rc --no-update
+composer update
+composer require drupal/slick_paragraphs:1.0-rc1 --no-update
+composer update
+git status
+git diff
+git status
+git checkout docroot/.htaccess
+git status
+git add *
+git status
+git reset
+git status
+blt
+blt setup:git-hooks
+git status
+git checkout -b 'LCP-00-lightnest-update'
+git satus
+git add composer.*
+git diff
+git status
+git commit -m 'LCP-00: Updated the Lightnest profile to latest version 3.1.4.'
+git push
+git status
+drush @nestle.local cmi
+drush @nestle.local cim
+git checkout nestle-careers
+git fetch --all
+git reset --hard upstream/nestle-careers
+git clearn
+git clean
+git -rf clean
+git -fd clean
+git -f clean
+git clean -df
+git status
+git diff
+git reset --hard upstream/nestle-careers
+git status
+sudo git reset --hard upstream/nestle-careers
+git status
+git push origin nestle-careers
+git status
+drush @nestle.local cim
+vagrant status
+blt setup
+drush @nestle.local cim
+drush @nestle.local cex
+git status
+git diff
+git status
+git branch
+git checkout LCP-00-lightnest-update
+git status
+git add config/*
+git status
+git commit -m 'LCP-00: Removed module configurations are removed.'
+git push
+git checkout nestle-careers
+git fetch --all
+git reset --hard upstream/nestle-careers
+git push origin nestle-careers
+vagrant up
+git status
+drush en social_media_links
+drush @nestle.local en social_media_links
+drush @nestle.local uli
+blt
+drush @nestle.local uli
+vagrant up
+drush @nestle.local uli
+git remote add sagar git@github.com:sd9121/nestle-corporate.git
+git fetch sagar
+git checkout LCP-54-article-page-theme
+git reset --hard sagar/LCP-54-article-page-theme
+blt frontend:build
+drush @nestle.local config-import
+drush @nestle.local cr
+drush @nestle.local uli
+drush @nestle.local cr
+git status
+drush @nestle.local uli
+git fetch --all
+git checkout LCP-54-wysiwyg-issues
+git pull
+blt frontend:build
+drush @nestle.local cr
+git remote add jaideep git@github.com:JayKandari/nestle-corporate.git
+git fetch jaideep
+git checkout LCP-68
+git reset --hard jaideep/LCP-68
+blt
+drush @nestle.local config-import
+git checkout nestle-careers
+git fetch --all
+git reset --hard upstream/nestle-careers
+git push origin nestle-careers
+git checkout -b LCP-202-drupal-core-update
+composer update
+ls -al
+sudo chown -f 766 composer.*
+ls -al
+sudo chown -f amit.vyas composer.*
+ls -al
+sudo chmod -f 755 composer.*
+ls -al
+composer update
+composer clear-cache
+composer update
+composer clear-cache
+composer update
+composer install
+composer update --dependencies
+composer update
+composer clear-cache
+composer install
+git status
+git checkout composer.lock
+git reset --hard upstream/nestle-careers
+git status
+composer update
+ls -al
+sudo chmod -f 755 composer.*
+ls -al
+composer update
+pbcopy < ~/.ssh/id_rsa.pub
+git status
+composer update
+composer clear-cache
+composer udpate
+composer update
+composer install
+composer update drupal/core
+git status
+chmod -Rf 755 docroot/sites/default/*
+git status
+composer update
+drush @nestle.local status
+git status
+git diff
+git status
+sudo chmod -Rf 644 docroot/sites/*
+git status
+git diff
+git status
+git add *
+git status
+sudo chmod -Rf 744 docroot/sites/*
+git status
+git add *
+git status
+git commit -m 'LCP-202: Drupal core security update to 8.5.2.'
+git status
+git push
+vagrant up
+blt setup
+blt doctor
+blt setup
+git status
+git diff
+sudo chmod -f 755 docroot/sites/default/settings.php 
+git status
+git diff
+blt setup
+vagrant status
+blt vm
+blt @nestle.local status
+git status
+git diff
+git reset --hard LCP-202-drupal-core-update
+git status
+blt setup
+blt doctor
+drush @nestle.local
+drush @nestle.local status
+drush cc drush
+blt setup
+drush @nestle.local status
+blt
+blt setup
+drush @nestle.local status
+vagrant up --provision
+blt setup
+vagrant ssh
+blt
+ls -al docroot/sites/
+ls -al docroot/
+ls -al docroot/sites/default/
+git reset --hard upstream nestle-careers
+git reset --hard upstream/nestle-careers
+git status
+composer update
+git diff
+git status
+git add composer.lock 
+git status
+git commit -m 'LCP-202: Drupal core security update to 8.5.2.'
+git push origin +LCP-202-drupal-core-update
+blt setup
+ls -al docroot/sites/default/
+ls -al
+cd ../
+ls -al
+cd tatelyle/
+composer install
+vagrant status
+cd ../nestle-corporate/
+vagrant halt
+vagrant status
+blt vm
+blt setup
+cd ../
+cd tateandlyle/
+composer install
+blt vm
+blt setup
+vagrant halt
+cd ../tatelyle/
+vagrant halt
+drush sa
+drush @novartisemea.dev -l http://dev.novartisoncology.es/ pmi ds
+drush @novartisemea.dev -l http://dev.novartisoncology.es/ pmi drupal
+drush @novartisemea.dev -l http://dev.novartisoncology.es/ pmi core
+drush @novartisemea.dev -l http://dev.novartisoncology.es/ uli
+cd projects/nestle-corporate/
+git fetch --all
+git checkout LCP-91
+git remote add sonvir git@github.com:sonvir249/nestle-corporate.git
+git fetch --all
+git checkout LCP-91
+vagrant up
+drush @nestle.local config-import
+blt frontend:build
+blt setup
+drush @nestle.local uli
+git status
+git reset --hard
+git status
+drush @nestle.local config-import
+drush @nestle.local dsu_c_socialbuttons
+drush cc dursh
+drush @nestle.local dsu_c_socialbuttons
+drush @nestle.local pmu dsu_c_socialbuttons
+drush @nestle.local en dsu_c_socialbuttons
+drush cr
+drush @nestle.local cr
+ls -al docroot/sites/default/
+vim docroot/sites/default/services.yml 
+drush @nestle.local cr
+drush @novartisemea.dev -l http://dev.novartisoncology.com/ uli --no-browser
+drush @novartisemea.dev -l http://dev.novartis.com/ uli --no-browser
+drush @nestle.local uli
+drush @novartisemea.dev -l http://dev.alcon.ca uli
+cd projects/novartis-corp/
+drush @novartisemea.dev -l http://dev.novartis.com/ uli 
+cd ../tateandlyle/
+git status
+git fetch --all
+git reset --hard upstream/develop
+git push origin develop
+git status
+cd projects/tatelyle/
+git status
+git fetch --all
+composer update
+git status
+composer update --lock
+composer update --lock
+composer update drupal/core:8.3.9
+composer update drupal/core
+git status
+composer update drupal/core
+git add composer.*
+git diff
+git status
+git checkout -b TALCD-164-core-security-patch
+git status
+git commit -m 'TAL-164: Drupal core SA-CORE-2018-003 & SA-CORE-2018-004'
+git commit -m 'TAL-164: Drupal core SA-CORE-2018-003 & SA-CORE-2018-004.'
+git push
+git status
+git checkout -b TALCD-164-core-security-patch
+git status
+git add composer.*
+git status
+git diff
+git status
+git commit -m 'TAL-164: Drupal core SA-CORE-2018-003 & SA-CORE-2018-004.'
+git push
+cd ../
+ls -al
+cd tateandlyle/
+git checkout develop
+git status
+git fetch --all
+git reset --hard upstream/develop
+git checkout master
+git branch
+git status
+git reset --hard ustream/master
+git reset --hard upstream/master
+git fetch --all
+git checkout release-1.1.2.3
+git log
+git reset --hard upstream/release-1.1.2.3
+git log
+git status
+git cherry-pick 5b5e15c
+git cherry-pick 5b5e15c -m 1
+git status
+git add composer.lock 
+git cherry-pick --continue
+git push
+git status
+git diff
+git add composer.json 
+git status
+cd ../tatelyle/
+git checkout master
+git reset --hard
+git clean
+git clean -df
+git status
+git checkout master
+git status
+git fetch --all
+git remote -v
+git add remote upstream git@github.com:acquia-pso/tatelyle.git
+git fetch --all
+git remote -v
+git remote add upstream git@github.com:acquia-pso/tatelyle.git
+git remote -v
+git fetch --all
+git checkout release_1.1.0.2
+git cherry-pick d11b98c -m 1
+git status
+git reset --hard
+git status
+vim make.yml 
+git status
+git add make.yml 
+git status
+git commit -m 'TAL-164: Drupal core SA-CORE-2018-003 & SA-CORE-2018-004.'
+git status
+git commit -m 'TAL-164: Drupal core SA-CORE-2018-003 & SA-CORE-2018-004.'
+git status
+blt
+git status
+git commit -m 'TAL-164: Drupal core SA-CORE-2018-003 & SA-CORE-2018-004.' -n
+git push
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+git status
+branch=master ; git fetch --all ; git checkout $branch ; git reset --hard origin/$branch
+tag=1.7.9-hotfix-16aug ; tag_comment="NPRO CD team Sprint 15 high priority tickets: NPROMS-575, NPROMS-574, NPROMS-567, NPROMS-568" ; git tag $tag -a -m "$tag_comment" ; git push origin $tag
+tag=tl_microsites_release_1.1.0.2 ; tag_comment="TALCD-164: Drupal core security patch" ; git tag $tag -a -m "$tag_comment" ; git push origin $tag
+git push upstream tl_microsites_release_1.1.0.2
+git tag -d 1.7.9-hotfix-16aug
+git push -d upstream 1.7.9-hotfix-16aug
+git tag -l
+git diff tags/tl_microsites_release_1.1.0.1 $tag
+:q!
+git diff tags/tl_microsites_release_1.1.0.1 tags/tl_microsites_release_1.1.0.2
+cd ../
+mkdir Acquia
+cd Acquia/
+ls -al
+cd ../Acquia/
+ls -al
+git clone tatelyle@svn-3394.prod.hosting.acquia.com:tatelyle.git tatelyle_acquia
+git branch -a
+cd tatelyle
+cd tatelyle_acquia/
+git fetch --all
+branch=master-build ; git fetch --all ; git checkout $branch ; git reset --hard origin/$branch
+cd ../../tatelyle/
+./task.sj
+./task.sh
+ls -al
+cd ../Acquia/tatelyle_acquia/
+git fetch --all
+branch=master-build ; git fetch --all ; git checkout $branch ; git reset --hard origin/$branch
+tag=tl_microsites_release_1.1.0.2 ; tag_comment="TALCD-164: Drupal core security patch" ; git tag $tag -a -m "$tag_comment" ; git push origin $tag
+cd ../../tateandlyle/
+git status
+composer update --lock
+git status
+git add composer.lock 
+git status
+git commit -m 'TALCD-164: Updated composer lock file for Travis.'
+git commit -m 'TAL-164: Updated composer lock file for Travis.'
+git push
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+branch=master ; git fetch --all ; git checkout $branch ; git reset --hard origin/$branch
+tag=tl_release_1.1.2.2 ; tag_comment="TALCD-164: Drupal core security patch" ; git tag $tag -a -m "$tag_comment" ; git push origin $tag
+tag=tl_release_1.1.2.3 ; tag_comment="TALCD-164: Drupal core security patch" ; git tag $tag -a -m "$tag_comment" ; git push origin $tag
+git push upstream tl_release_1.1.2.3
+cd ../Acquia/tateandlyle_acquia/
+git checkout master-build
+git fetch --all
+git checkout master-build
+git branch -a
+git branch
+git remote -v
+git fetch --all
+git branch -a
+git checkout -b master origin/master
+git branch -a
+git status
+ls -al
+cd ../
+git clone tatelylecom@svn-19900.prod.hosting.acquia.com:tatelylecom.git tateandlyle_acquia
+cd tateandlyle_acquia/
+git fetch --all
+git checkout master-build
+git reset --hard
+git fetch --all
+drush sa
+drush @tatelylecom.prod cr
+drush @tatelylecom.prod -l http://tateandlyle.com/ cr
+drush @npro.01dev ssh && /bin/echo -e "flush_all\nquit" | nc -q1 staging-663 11211
+cd projects/nestle-corporate/
+vagrant up
+drush @nestle.local uli
+git status
+git reset --hard
+sudo git reset --hard 
+git status
+ls -al
+sudo chown -Rf amit.vyas *
+git status
+git checkout nestle-careers
+git fetch --all
+git reset --hard upstream nestle-careers
+git reset --hard upstream/nestle-careers
+git push origin nestle-careers
+composer update
+git status
+git diff
+git status
+git add composer.lock 
+git add docroot/sites/default/default.settings.php 
+git status
+git add docroot/.*
+git status
+git commit -m 'git checkout -b LCP-212-drupal-core-update
+'
+git status
+git checkout -b LCP-212-drupal-core-up
+git status
+git commit -m 'LCP-212: Drupal core update and other updates of lightning+others.'
+git status
+git push
+git status
+git add docroot/.htaccess 
+git status
+git commit -m 'LCP-212: restructure .htaccess file for the ACSF.'
+git push
+git fetch --all
+git branch jaideep
+git checkout jaideep/LCP-204
+git reset --hard jaideep/LCP-204
+git checkout nestle-careers
+git reset --hard upstream/nestle-careers
+ls -al docroot/sites/default
+sudo ls -al docroot/sites/default
+sudo git reset --hard upstream/nestle-careers
+ls -al docroot/sites/default
+sudo chown -Rf amit.vyas docroot/sites/default
+ls -al docroot/sites/default
+ls -al
+git branch -a
+git checkout -b remotes/jaideep/LCP-204
+git status
+vagrant status
+vagrant up
+drush @nestle.local cr
+drush @nestle.local config-import
+blt setup
+git status
+drush @nestle.local uli
+git reset --hard heads/remotes/jaideep/LCP-204
+drush @nestle.local config-import
+drush @nestle.local cr
+drush @nestle.local config-import
+git fetch --all
+git reset --hard
+git log
+git status
+git branch -a
+git branch -d heads/remotes/jaideep/LCP-204
+git checkout nestle-careers
+git reset --hard nestle-careers
+git checkout -b LCP-204 jaideep/LCP-204
+git reset --hard jaideep/LCP-204
+sudo chown -f amit.vyas docroot/sites/default/default.settings.php
+sudo chmod -f 777 docroot/sites/default/default.settings.php
+git reset --hard jaideep/LCP-204
+sudo git reset --hard jaideep/LCP-204
+drush @nestle.local config-import
+drush @nestle.local cr
+git checkout sagar/LCP-90-footer-social-links
+blt frontend:build
+drush @nestle.local cr
+drush @nestle.local status
+drush sa
+drush @tatelylecom.prod cr
+drush @tatelylecom.prod -l https://www.tateandlyle.com cr
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com cr
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com updb
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com fra
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com updb
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com fra
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com en features
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com fra
+cd ../tateandlyle/
+git status
+git checkout develop
+git fetch --all
+git reset --hard upstream/develop
+git push origin develop
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com updb
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com fra
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com en features
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com cc drush
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com fra
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com fra -y
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com cr
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com updb -y
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com cr
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com uli
+drush @tatelylecom.dev.livedev ssh
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com cr
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com updb
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com frz
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com fra -y
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com en features -y
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com cc drush
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com cr
+drush @tatelylecom.dev -l comdev.prod.cloud.tateandlyle.com fra -y
+cd ../nestle-corporate/
+git checkout develop
+git reset --hard
+git checkout develop
+git branch
+git checkout nestle-careers
+git fetch --all
+git reset --hard upstream/nestle-careers
+sudo git reset --hard upstream/nestle-careers
+git push origin nestle-careers
+blt vm
+blt setup
+drush @nestle.local en -y qa_accounts
+drush @nestle.local config-import
+cd projects/nestle-corporate/
+git fetch --all
+git reset --hard upstream/nestle-careers
+git checkout LCP-142
+git reset --hard sonvir/LCP-142
+vagrant up
+blt @nestle.local config-import
+drush sa
+drush @nestle.local config-import
+drush en extlink
+drush @nestle.local en extlink
+drush @nestle.local config-import
+drush @nestle.local uli
+drush @nestle.local config-import
+blt setup
+cd projects/nestle-corporate/
+git fetch --all
+git checkout nestle-careers
+git reset --hard upstream/nestle-careers
+git push origin nestle-careers
+vagrant up
+vagrant plugin repair
+cd projects/nestle-corporate/
+drush @nestle.local uli
+vagrant plugin update
+vagrant status
+git fetch --all
+vagrant up
+git checkout LCP-205-theme-search-page
+git reset --hard sagar/LCP-205-theme-search-page
+blt frontend:build
+drush @nestle.local cr
+drush @nestle.local cim
+drush @nestle.local updb
+blt frontend:build
+vagrant up
+cd projects/nestle-corporate/
+git fetch --all
+git checkout nestle-careers
+git reset --hard upstream/nestle-careers
+git push origin nestle-careers
+vagrant up
+blt setup
+drush @nestle.local uli
+composer update
+history | grep 'de'
+history | grep 'default'
+drush @neatle.local
+drush @neatle.local status
+vagrant status
+blt setup
+drush @nestle.local uli
+composer update
+composer update lightnest/dsu_c_entitycycle
+composer update lightnest/dsu_c_entitycycle:^1.0
+composer update lightnest/dsu_c_entitycycle:^1.0 --update-lock
+composer update lightnest/dsu_c_entitycycle:^1.0
+composer update lightnest/dsu_c_entitycycle:^1.1
+drush en qa_accounts -y
+drush @nestle.local en qa_accounts -y
+drush @nestle.local cex
+git status
+git reset --hard upstream/nestle-careers
+git status
+drush @nestle.local config-export
+git status
+git reset --hard upstream/nestle-careers
+git status
+ls -al
+sudo chown -Rf amit.vyas * 
+sudo chown -Rf 766 config/*
+ls -al
+drush @nestle.local config-export
+git status
+sudo chown -Rf 777 config/*
+sudo chown -Rf 777 config
+git status
+drush @nestle.local config-export
+drush @nestle.local config-import
+drush @nestle.local config-export
+drush config-export
+sudo chmod -Rf 777 config/*
+sudo chmod -Rf 777 config
+drush @nestle.local config-export
+sudo chmod -Rf 777 config/*.*
+sudo chmod -Rf 777 config/**/*
+sudo chmod -Rf 777 *
+git status
+drush @nestle.local config-export
+git reset --hard
+git status
+ls -al config/default/classy_paragraphs.classy_paragraphs_style.*
+git reset --hard upstream/nestle-careers
+git status
+git clean -fh
+git clean -d
+git clean -df
+git status
+drush @nestle.local config-export
+git status
+git add config/default/classy_paragraphs.classy_paragraphs_style.*
+git add config/default/field.field.paragraph.dsu_c_hovercard.field_hovercard_l.yml 
+git add config/default/field.storage.paragraph.field_hovercard_l.yml 
+git add config/default/core.entity_form_display.paragraph.dsu_c_hovercard.default.yml
+git add config/default/core.entity_view_display.paragraph.dsu_c_hovercard.default.yml
+git status
+cp config/default/classy_paragraphs.classy_paragraphs_style.hovercard_box.yml docroot/modules/custom/dsu_c_hovercard/config/install/
+cp config/default/classy_paragraphs.classy_paragraphs_style.hovercard_department.yml docroot/modules/custom/dsu_c_hovercard/config/install/
+cp config/default/classy_paragraphs.classy_paragraphs_style.hovercard_stand_out.yml docroot/modules/custom/dsu_c_hovercard/config/install/
+cp config/default/core.entity_form_display.paragraph.dsu_c_hovercard.default.yml docroot/modules/custom/dsu_c_hovercard/config/install/
+cp config/default/core.entity_view_display.paragraph.dsu_c_hovercard.default.yml docroot/modules/custom/dsu_c_hovercard/config/install/
+cp config/default/field.field.paragraph.dsu_c_hovercard.field_hovercard_l.yml docroot/modules/custom/dsu_c_hovercard/config/install/
+cp config/default/field.storage.paragraph.field_hovercard_l.yml docroot/modules/custom/dsu_c_hovercard/config/install/
+git status
+git add docroot/modules/custom/dsu_c_hovercard/config/install/classy_paragraphs.classy_paragraphs_style.hovercard_box.yml
+docroot/modules/custom/dsu_c_hovercard/config/install/classy_paragraphs.classy_paragraphs_style.hovercard_department.yml
+docroot/modules/custom/dsu_c_hovercard/config/install/classy_paragraphs.classy_paragraphs_style.hovercard_stand_out.yml
+docroot/modules/custom/dsu_c_hovercard/config/install/field.field.paragraph.dsu_c_hovercard.field_hovercard_l.yml
+git add docroot/modules/custom/dsu_c_hovercard/config/install/classy_paragraphs.classy_paragraphs_style.hovercard_box.yml
+git status
+git add docroot/modules/custom/dsu_c_hovercard/config/install/classy_paragraphs.classy_paragraphs_style.hovercard_department.yml docroot/modules/custom/dsu_c_hovercard/config/install/classy_paragraphs.classy_paragraphs_style.hovercard_stand_out.yml docroot/modules/custom/dsu_c_hovercard/config/install/field.field.paragraph.dsu_c_hovercard.field_hovercard_l.yml docroot/modules/custom/dsu_c_hovercard/config/install/field.storage.paragraph.field_hovercard_l.yml
+git status
+git add docroot/modules/custom/dsu_c_hovercard/config/install/core.entity_form_display.paragraph.dsu_c_hovercard.default.yml docroot/modules/custom/dsu_c_hovercard/config/install/core.entity_view_display.paragraph.dsu_c_hovercard.default.yml
+git status
+git checkout -b LCP-40-hovercard-layout-field
+git status
+git commit -m 'LCP-40: Added a hovercard layout field with classy styles.'
+git push
+git remote -v
+git checkout nestle-careers
+git reset --hard
+git branch
+git checkout LCP-40-hovercard-layout-field
+git reset --hard
+git status
+git add docroot/modules/custom/dsu_c_hovercard/config/install/*
+git status
+git commit -m 'LCP-40: Removed uuid & _core from the config files.'
+git push
+git checkout nestle-careers
+git fetch --all
+composer update lightnest/dsu_c_entitycycle:^1.1
+vim ~/.bashrc 
+vim ~/.bash_profile 
+vim ~/.bash.local 
+ls -al ~
+vim vendor/acquia/blt/scripts/blt/alias 
+cd ~
+ls -al
+cd projects/nestle-corporate/
+vagrant ssh
+drush sa
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com config-import
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com cr
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com updb
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com cr
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com config-import
+composer update lightnest/dsu_c_entitycycle
+git status
+git diff
+drush @nestle.local en dsu_c_entitycycle -y
+drush @nestle.local uli
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com updb
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com config-import
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com cr
+vagrant status
+vagrant up
+drush @nestle.local
+drush @nestle.local lcpc-migrate-files
+drush @nestle.local search-api-index
+drush @nestle.local config-import
+drush @nestle.local updb
+drush @nestle.local config-import
+drush @nestle.local config-export
+git status
+drush @nestle.local config-import
+drush @tatelyle.dev -l http://yourbakerysnacksolutions.dev.cloud.tateandlyle.com cr
+cd projects/tateandlyle/
+vendor/bin/phpcs --standard=Drupal simplesamlphp/config
+git status
+git reset --hard
+git fetch --all
+git reset --hard upstream/develop
+git remote -v
+git push origin develop
+vagrant status
+blt vm
+composer install
+blt vm:nuke && blt vm
+rm Vagrantfile 
+rm -Rf vendor/
+rm composer.lock 
+git status
+git reset --hard upstream/develop
+blt vm
+blt
+composer install
+blt vm
+blt setup
+vagrant ssh
+drush @tatelylecom.local status
+vagrant ssh
+blt setup
+vagrant ssh
+blt setup
+blt setup:drupal:install
+php -ini | grep "memory_limit"
+blt doctor
+vagrant status
+drush @tatelylecom.dev cr
+sudo xcodebuild -license
+xcode-select --install
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install php71 git composer
+brew link --overwrite composer
+composer global require "hirak/prestissimo:^0.3"
+brew tap caskroom/cask
+vagrant plugin install vagrant-hostsupdater
+blt setup
+cd projects/nestle-corporate/
+vagrant up
+vagrant halt
+drush @nestle.local uli
+vagrant halt
+vagrant up
+vagrant ssh
+drush @tatelylecom.local status
+drush @local.tatelylecom.local status
+drush @local.tatelylecom.local uli
+drush @local.tatelylecom.local pmu securepages
+drush @local.tatelylecom.local pmi media
+drush @local.tatelylecom.local pmi media_entity
+drush @local.tatelylecom.local pmi lightning
+drush @local.tatelylecom.local updb
+composer self-update
+composer require acquia/lightning:2.2.8 --no-update
+composer update acquia/lightning --with-all-dependencies
+composer require drupal/core:~8.4.4 --no-update
+composer update acquia/lightning --with-all-dependencies
+composer require acquia/blt:^8.6 --no-update
+composer update acquia/lightning --with-all-dependencies
+composer require drupal/core:^8.4.8 --no-update
+composer update acquia/lightning --with-all-dependencies
+composer require acquia/blt:^8.6.15 --no-update
+composer update acquia/lightning --with-all-dependencies
+blt --v
+blt -v
+blt
+blt version
+composer require acquia/blt:^8.9 --no-update
+composer update
+composer update --with-all-dependencies
+composer require acquia/blt:^8.6 --no-update
+composer update --with-all-dependencies
+composer require acquia/blt:^8.7 --no-update
+composer update --with-all-dependencies
+composer require acquia/blt:^8.8 --no-update
+composer update --with-all-dependencies
+composer require acquia/blt:^9.0 --no-update
+composer update --with-all-dependencies
+composer require acquia/blt:^8.9.0 --no-update
+composer update --with-all-dependencies
+composer require acquia/blt:^9.0 --no-update
+composer update --with-all-dependencies
+vagrant status
+vagrant up
+drush @tatelyle.prod -l http://www.yourfoodsystems.com/ uli
+drush @nestle.local en ckeditor_font -y
+drush @nestle.local pmu locale -y
+git fetch --all
+git reset --hard upstream/nestle-careers
+git push origin nestle-careers
+composer require 'drupal/htmlpurifier:^1.0'
+blt
+blt @nestle.local sync:db
+blt
+vagrant status
+blt sync:db
+cat ~/.drush/nestledsu2.aliases.drushrc.php 
+blt sync:db
+blt
+blt sync:refresh
+blt setup
+blt sync:refresh
+blt setup:config-import
+drush @nestle.local config-import
+git status
+git clean config/default/*
+git clean -fd config/default/
+git status
+blt setup:config-import
+blt sync:refresh
+blt
+blt sync:files
+drush @nestle.local en qa_accounts
+drush @nestle.local uli
+git status
+blt
+blt sync:refresh
+git status
+git checkout -b 'LCP-00-SYNC-STAGE'
+git status
+git diff
+git status
+git add blt/project.yml drush/site-aliases/aliases.drushrc.php
+git status
+git commit -m 'LCP-00: Added drush alias for STAGE environment to sync the local environment.'
+git push
+blt
+blt sync
+git status
+git add README.md 
+git status
+git commit -m 'LCP-00: Update the readme documentation regarding the new commands.'
+git push
+history | grep @nestle.local
+drush @nestle.local en ckeditor_font -y
+drush @nestle.local en htmlpurifier -y
+npm i -g npm to update
+drush @tatelylecom.prod -l www.tateandlyle.com cr
+git fetch --all
+git checkout LCP-150
+git reset --hard
+git checkout LCP-150
+git reset --hard jaideep/LCP-150
+vagrant status
+vagrant up
+drush @nestle.local uli
+drush @nestle.local config-import
+git reset --hard
+git checkout develop
+git checkout nestle-careers
+git reset --hard upstream/nestle-careers
+git push origin nestle-careers
+drush @nestle.local config_ignore
+drush @nestle.local en config_ignore -y
+drush @nestle.local ULI
+drush @nestle.local uli
+drush @nestle.local config-import
+drush dis config_ignore
+drush @nestle.local pmu config_ignore
+drush @nestle.local config-import
+git reset --hard upstream/nestle-careers
+git status
+git clean
+git clean -fd *
+git status
+blt
+blt setup:config-import
+blt 
+cd projects/nestle-corporate/
+blt sync:refresh
+drush @nestle.local en config-import -y
+drush @nestle.local pmu config_ignore
+drush @nestle.local en config_ignore
+drush @nestle.local uli
+drush @nestle.local config-export
+git diff
+git status
+git add *
+git checkout -b LCP-69-config-ignore
+git status
+git commit -m 'LCP-69: Added config-ignore module and other settings updated.'
+git status
+drush @nestle.local config-export
+git status
+drush @nestle.local config-export
+git diff
+drush @nestle.local config-export
+git status
+git diff
+git status
+drush @nestle.local config-export
+git diff
+git status
+git add config/default/*
+git status
+git diff
+git checkout
+git status
+git diff
+git reset --hard
+git status
+git diff
+git status
+drush @nestle.local config-export
+blt setup:config-import 
+drush @nestle.local config-export
+drush @nestle.local config-export
+vim config/default/locale.settings.yml 
+drush @nestle.local config-export
+git status
+git diff
+git status
+git add config/default/locale.settings.yml
+git status
+git commit -m 'LCP-69: Changes in the language translation source.'
+git status
+git reset --hard
+git status
+git clean
+git clean -df
+git status
+drush @nestle.local config-import
+drush @nestle.local uli
+git status
+drush @nestle.local comfig-import
+drush @nestle.local comfig-export
+drush @nestle.local cex
+git status
+cd config/envs/local/language/
+ls -al
+vim ar/views.view.search.yml 
+ls -al
+git status
+cd ../../../
+git status
+git clean -df
+git status
+git reset --hard
+git status
+drush @nestle.local cr
+drush @nestle.local cex
+git status
+vim envs/local/language/ar/views.view.search.yml 
+drush @nestle.local cim
+rm envs/local/language/ar/views.view.search.yml 
+drush @nestle.local cim
+drush @nestle.local cr
+drush @nestle.local cex
+drush @nestle.local cim
+drush @nestle.local en -y kint
+drush @nestle.local cim
+drush @nestle.local cex
+drush @nestle.local cim
+drush @nestle.local cr
+drush @nestle.local cim
+drush @nestle.local cex
+drush @nestle.local cim
+drush @nestle.local cex
+drush @nestle.local cim
+drush @nestle.local cex
+drush @nestle.local cim
+drush @nestle.local uli
+drush @nestle.local suggestion
+drush @nestle.local suggestion -y
+drush @nestle.local en suggestion -y
+drush @nestle.local uli -y
+git checkout nestle-careers
+git reset --hard
+git checkout nestle-careers
+git fetch --all
+git reset --hard upstream/nestle-careers
+git push origin nestle-careers
+drush @nestle.local uli -y
+drush @novartisemea.dev -l http://dev.novartis.com/ uli 
+drush @novartisemea.test -l http://stg.novartis.com/ uli 
+drush @novartisemea.dev -l http://dev.novartis.com/ uli 
+cd projects/tatelyle/
+git fetch --all
+git remote -v
+git checkout develop
+git reset --hard upstream/develop
+git push origin develop
+blt
+blt setup
+blt vm
+vagrant up
+vagrant box update
+git status
+git diff
+git status
+vagrant up
+blt vm:nuke
+blt vm
+git status
+ls -al
+drush @tatelyle.local status
+drush @local.tatelyle.com status
+drush tatelyle.local status
+drush tatelyle.local -l local.tatelyle.com status
+drush @tatelyle.local -l local.tatelyle.com status
+drush @nestle.local en acsf_duplication -y
+cd ../nestle-corporate/
+vagrant up
+drush @tatelyle.dev -l http://avenacare.dev.cloud.tateandlyle.com/ cr
+drush @tatelyle.dev -l http://avenacare.dev.cloud.tateandlyle.com/ uli
+cd projects/tatelyle/sites
+ls -al
+drush @nestle.local en acsf_duplication -y
+cd avenacare/
+ls -al
+cd ../
+ls -al
+cd projects/tatelyle/
+ls -al
+cd sites/
+ls -al
+git status
+cd ../
+chmod -Rf 777 sites
+ls -al
+git status
+git checkout
+git fetch --all
+git reset --hard upstream/deveop
+git reset --hard upstream/develop
+git push origin develop
+ls -al
+git status
+git diff
+git status
+git checkout themes/custom/dolciaprima/dolciaprima.theme
+git status
+git clean -df
+git status
+git checkout themes/custom/dolciaprima/dolciaprima.theme
+git status
+git reset --hard upstream/develop
+git status
+ls -al
+chmod -f sites/ 777
+chmod -f 777 sites
+git status
+git add sites
+git status
+drush @tatelyle.dev ssh
+drush @nestle.local uli
+vagrant halt
+vagrant up
+drush @nestle.local uli
+drush @nestle.local cex
+git status
+git checkout -b 'LCP-304-url-patterns'
+git status
+git add config/default/pathauto.pattern.content_type_title.yml config/default/pathauto.pattern.term_parent_title.yml config/default/pathauto.pattern.title_url.yml config/default/pathauto.settings.yml config/default/system.action.pathauto_update_alias_node.yml config/default/system.action.pathauto_update_alias_user.yml 
+git status
+git diff config/default/core.extension.yml
+git fetch --all
+git rebase upstream nestle-careers
+git rebase upstream/nestle-careers
+git status
+git commit -m 'LCP-304: Added pathauto patterns for content types & terms.'
+git status
+git checkout docroot/modules/custom/lcp_careers_migration/src/Plugin/migrate/process/DecodeHtmlDescription.php
+git commit -m 'LCP-304: Added pathauto patterns for content types & terms.'
+git rebase upstream/nestle-careers
+git status
+git reset --hard upstream/nestle-careers
+git status
+git clean -df
+git status
+git reset --hard
+git status
+git reset --hard LCP-304-url-patterns
+drush @nestle.local cex
+blt
+blt sync:refresh
+git pull
+git pull LCP-304-url-patterns
+git log
+git status
+git push
+git pull origin     git push --set-upstream origin LCP-304-url-patterns
+git pull origin LCP-304-url-patterns
+drush @nestle.local cim
+drush @nestle.local updb
+drush @nestle.local uli
+drush @nestle.local en pathauto
+drush @nestle.local cex
+git diff
+git status
+git add config/default/core.extension.yml config/default/lightning_core.versions.yml config/default/pathauto.* config/default/system.action.pathauto*
+git status
+git commit -m 'LCP-304: Added pathauto patterns for content types & terms.' --ammend
+git commit -m 'LCP-304: Added pathauto patterns for content types & terms.' --amend
+git push
+git pull
+git rebase upstream/nestle-careers
+git stash
+git rebase upstream/nestle-careers
+git stash apply
+git status
+git push
+git status
+git push
+git status
+git push
+git commit -m 'LCP-304: Added pathauto patterns for content types & terms.'
+git push
+git checkout nestle-careers
+git fetch --all
+git reset --hard upstream/nestle-careers
+git push origin nestle-careers
+git checkout -b LCP-304-path-patterns
+drush @nestle.local cex
+git status
+git add config/default/pathauto.*
+git status
+git add config/default/system.action.pathauto*
+git status
+git add config/default/core.extension.yml config/default/lightning_core.versions.yml
+git status
+git commit -m 'LCP-304: Enabled pathauto and added patterns.'
+git push
+git checkout nestle-careers
+git reset --hard upstream/nestle-careers
+git fetch upstream
+git reset --hard upstream
+git reset --hard upstream/nestle-careers
+git checkout -b LCP-00-ACSF-module
+drush @nestle.local en acsf_duplication
+git status
+drush cim
+drush @nestle.local cim
+drush @nestle.local en acsf_duplication
+drush @nestle.local
+drush @nestle.local cex
+git status
+git add config/default/core.extension.yml config/default/lightning_core.versions.yml
+git diff
+git status
+git commit -m 'LCP-00: Enabled ACSF clonning required module acsf_duplication.'
+git push
+drush @nestle.local en acsf
+git status
+drush @nestle.local cex
+git status
+git diff
+git status
+git add config/default/core.extension.yml config/default/lightning_core.versions.yml config/default/acsf.settings.yml
+git status
+git commit -m 'LCP-00: Enabled other ACSF modules which requires to be enabled.'
+git push
+blt sync:files
+blt frontend:build
+drush @nestle.local cr
+drush @nestle.local en taxonomy_menu -y
+drush @nestle.local uli
+cd ../novartis-corp/
+ls -al
+drush sa
+drush sql-sync @nestledsu2.01test  @nestledsu2.01test2
+drush sql-sync @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/  @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ status
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ status
+drush sql-sync @nestledsu2.01test  @nestledsu2.01test2 --source-database:nestledsudb254579 --target-database:nestledsudb252639
+drush sql-sync --source-database:nestledsudb254579 --target-database:nestledsudb252639 @nestledsu2.01test  @nestledsu2.01test2
+drush @nestledsu2.01test  @nestledsu2.01test2 sql-sync --source-database:nestledsudb254579 --target-database:nestledsudb252639
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/  @nestledsu2.01test2 http://careers.test2-nestledsu2.acsitefactory.com/ sql-sync
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/  @nestledsu2.01test2 -lhttp://careers.test2-nestledsu2.acsitefactory.com/ sql-sync
+drush @nestledsu2.01test --uri=http://careers.test-nestledsu2.acsitefactory.com/  @nestledsu2.01test2 --uri=http://careers.test2-nestledsu2.acsitefactory.com/ sql-sync
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/  @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ sql-sync
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ sql-sync
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ @nestledsu2.01test2 sql-sync
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ ssh
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ sql-sync
+sudo vim /etc/hosts
+sudo vim ~/.ssh/known_hosts 
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ sql-sync
+cat ~/.ssh/id_rsa.pub 
+blt sync
+cd ../nestle-corporate/
+git checkout nestle-careers
+git fetch --all
+git reset --hard upstream/nestle-careers
+git push origin nestle-careers
+blt sync:refresh
+composer require drupal/taxonomy_menu:^8.3
+composer require drupal/taxonomy_menu:^8
+composer require drupal/taxonomy_menu
+composer require drupal/taxonomy_menu --no-update && composer update
+composer self-update
+composer update
+git status
+git diff
+drush @nestle.local updb
+blt sync:files
+composer update consolidation/robo --with-all-dependencies
+composer require "consolidation/robo": "~1.2.4" --no-update
+composer require "consolidation/robo" --no-update
+composer update consolidation/robo --with-all-dependencies
+git status
+git diff
+blt sync:files
+git diff
+composer update consolidation/robo --with-all-dependencies
+git status
+blt sync:files
+composer update consolidation/robo --with-all-dependencies
+blt sync:files
+git satatus
+git status
+git diff
+ls -al
+composer update --lock
+git diff
+git status
+composer update
+git status
+git diff
+git status
+git add composer.json 
+git add composer.lock 
+git checkout -b 'LCP-00-Update-drupal-modules'
+git status
+git commit -m 'LCP-00: Updated drupal core & drupal modules with Lightnest profile.''
+git commit -m 'LCP-00: Updated drupal core & drupal modules with Lightnest profile.'
+git push
+drush @nestle.local uli
+vendor/bin/behat -V
+composer require --dev acquia/drupal-spec-tool
+blt test:behat
+blt
+blt tests:behat
+vagrant up
+blt tests:behat
+blt
+blt tests:behat:definitions
+blt tests:behat
+cd projects/nestle-corporate/
+git fetch --all
+git remote add shipra git@github.com:Shipra14/nestle-corporate.git
+git fetch shipra
+git checkout LCP-206
+git diff
+git status
+git checkout LCP-00-behat
+git checkout develop
+git checkout nestle-careers
+git status
+git add blt/project.yml composer.* tests/*
+git status
+git checkout -b LCP-00-behat
+git status
+git commit -m LCP-00: Add behat tests.
+git commit -m 'LCP-00: Add behat tests.'
+git commit -m 'LCP-00: Add behat test cases using acquia tool.'
+git push
+git checkout LCP-206
+git reset --hard
+blt frontend:build
+vagrant up
+blt frontend:build
+drush @nestle.local cr
+git reset --hard shipra/LCP-206
+blt frontend:build
+drush @nestle.local cr
+blt sync:refresh
+blt sync:files
+git fetch shipra/LCP-206
+git fetch shipra
+git reset --hard shipra/LCP-206
+blt frontend
+drush @nestle.local cr
+drush @nestle.local uli
+blt frontend:build
+git reset --hard shipra/LCP-206
+git log
+blt frontend:build
+drush @nestle.local cr
+blt sync:refresh
+drush @nestle.local cr
+blt setup
+composer require drupal/core:8.5.4
+blt setup
+cd projects/Acquia/
+composer update
+git clone --branch master covermore@svn-3849.prod.hosting.acquia.com:covermore.git ac_covermore
+cd ac_covermore/
+ls -al
+blt setup
+git remote add github git@github.com:acquia-pso/CoverMore.git
+git remote -v
+git push github master
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+git fetch --all
+cd ../../
+ls -al
+git clone git@github.com:vyasamit2007/CoverMore.git
+cd CoverMore/
+ls -al
+git remote add upstream git@github.com:acquia-pso/CoverMore.git
+git status
+git remote -v
+cd ../Acquia/ac_covermore/
+git branch
+git branch -a
+git checkout develop
+git status
+git reset --hard origin/develop
+ls -al
+cd ../../CoverMore/
+git checkout develop
+git fetch --all
+git checkout develop
+git reset --hard upstream/develop
+git push origin develop
+git checkout develop
+git status
+git branch -d develop
+git checkout master
+git branch -d develop
+git fetch --all
+git branch -a
+git checkout develop
+git fetch --all
+git checkout -b develop remotes/origin/develop
+git status
+git checkout -b COV-7-tranvis
+drush
+drush acquia-update
+drush sa
+drush @covermore.prod ssh
+drush sa
+vim ~/.drush/covermore.aliases.drushrc.php 
+cd projects/
+cd CoverMore/
+ps ~/.drush/covermore.aliases.drushrc.php 
+pstorm ~/.drush/covermore.aliases.drushrc.php 
+pstorm
+pstorm -o ~/.drush/covermore.aliases.drushrc.php
+pstorm  ~/.drush/covermore.aliases.drushrc.php:1
+pstorm ~/.drush/covermore.aliases.drushrc.php:1
+pstorm ~/.drush/covermore.aliases.drushrc.php:3
+vim ~/.drush/covermore.aliases.drushrc.php 
+composer install
+git remote -v
+vagrant up
+vagrant up --provision
+vagrant destroy
+vagrant up
+history | grep pbcopy
+pbcopy < ~/.ssh/id_rsa.pub
+cd projects/
+git clone git@bitbucket.org:amit-vyas/wfmcom.git wfmcom
+cd wfmcom/
+ls -al
+gem install bundler
+sudo gem install bundler
+composer install --prefer-dist --working-dir=build
+ls -al
+vagrant up
+composer install
+blt
+ls -al
+git remote add upstream git@bitbucket.org:wfmdigitalweb/wfmcom.git
+composer install
+vagrant up
+vagrant up --provision
+vagrant
+vagrant destroy
+vagrant up
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew tap homebrew/dupes; brew tap homebrew/versions; brew tap homebrew/homebrew-php;
+brew install php71 git composer drush
+brew install php71; git composer drush
+brew upgrade php@7.1
+git composer drush
+composer global require "hirak/prestissimo:^0.3"
+vagrant status
+vagrant up
+vagrant ssh
+cp sites/default/dvm.example.settings.local.php sites/default/settings.local.php
+cp docroot/sites/default/dvm.example.settings.local.php sites/default/settings.local.php
+cp docroot/sites/default/dvm.example.settings.local.php docroot/sites/default/settings.local.php
+cd build/
+composer install
+cd ..
+build/bin/phing -f build/phing/build.xml css-compile
+./scripts/light-sync-db.sh
+vagrant status
+git fetch && git checkout -b local-improvements upstream/feature/local-improvements
+git remote -v
+git fetch --all
+git checkout -b local-improvements upstream/feature/local-improvements
+composer install
+vagrant status
+vagrant up --provision
+vagrant destroy
+vagrant up
+bash
+ls -al
+vagrant up --provision
+./scripts/light-sync-db.sh
+drush acquia-update
+./scripts/light-sync-db.sh
+drush sa
+drush cc drush
+./scripts/light-sync-db.sh
+drush sa
+./scripts/light-sync-db.sh
+drush sa
+drush @wfmcom.local uli
+vagrant status
+vagrant ssh
+drush @wfmcom.local cc all
+./scripts/light-sync-db.sh
+drush @wfmcom.local cc all
+brew link php71
+cd projects/CoverMore/
+ls -al
+cd ~
+ls -al
+cd projects/tateandlyle/
+blt
+git checkout master
+git fetch --all
+git checkout master
+git reset --hard upstream/develop
+git reset --hard upstream/master
+git reset --hard upstream/develop
+git push origin develop
+git checkout master
+git reset --hard upstream/master
+git push origin master
+git log
+git revert 1135fe5
+git revert 1135fe5 -m 1
+git reset --hard 3757ea4
+git push upstream master --force
+cd ../tatelyle/
+git fetch --all
+git reset --hard upstream/develop
+git push origin develop
+git merge release_1.1.1
+git merge upstream/release_1.1.1
+git add simplesamlphp/metadata/saml20-idp-remote.php simplesamlphp/config/authsources.php
+git status
+git diff themes/custom/dolciaprima/dolciaprima.theme
+git status
+git add *
+git status
+git commit -m 'TAL-00: Merged Conflicts with develop branch.'
+git push
+git push upstream develop
+git checkout release_1.1.1
+cd projects/tateandlyle/
+ls -al
+git checkout develop
+git fetch --all
+git reset --hard upstream/develop
+cd docroot/themes/custom/
+ls -al
+cd tateandlyle/
+npm install
+gulp watch
+gulp
+drush acquia-update
+drush sa
+drush @tatelylecom.dev uli
+drush @tatelylecom.dev -l https://comdev.prod.cloud.tateandlyle.com uli
+drush @tatelylecom.dev -l https://comdev.prod.cloud.tateandlyle.com list-roles
+drush -v
+drush
+drush --version
+npm update
+npm -v
+nvm -v
+gulp -v
+npm -v
+brew update gulp
+brew upgrade gulp
+npm update
+npm install -g npm
+npm update
+npm install
+npm audit fix
+npm install
+npm audit fix --force
+node -v
+npm install
+gulp watch
+gulp prod
+git status
+git checkout build/*
+git status
+git checkout build/
+git status
+git checkout build/bootstrap-tabcollapse.js build/buto-tv.js build/ckeditor.css build/frame-manager.js build/jquery.dotdotdot.min.js build/main.css build/script.js
+git diff
+git reset --hard upstream/develop
+git status
+ls -al
+drush sql-sync @demo.dev @demo.local
+drush sa
+drush sql-sync @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com  @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com  @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ sql-sync
+cd ~/.ssh/
+ls -al
+cd ~/projects/tateandlyle/docroot/themes/custom/tateandlyle
+drush sa
+drush sa
+cd drush/site-aliases/
+ls -al
+vim wfmcom.aliases.drushrc.php 
+cd ../
+ls -al
+cd ../
+ls -al
+vim drush.wrapper 
+cd drush
+ls -al
+cd site-aliases/
+ls -al
+xattr -l wfmcom.aliases.drushrc.php
+cd ../
+ls -al
+git status
+git remote -v
+git reset --hard upstream/local-improvements
+git branch
+git branch -a
+git reset --hard remotes/upstream/local-improvements
+git reset --hard upstream local-improvements
+ls -al
+git branch -a
+git reset --hard upstream/feature/local-improvements
+git fetch --all
+git reset --hard upstream/feature/local-improvements
+drush @sa
+drush sa
+drush @wfmcom.local status
+vagrant up
+drush @wfmcom.local status
+cd docroot/sites/default/
+ls -al
+cd ../
+ls -al
+cd default/
+ls -al
+vim settings.local.php 
+vim settings.php 
+ls -al
+cd ../
+ls -al
+cd ../
+ls -al
+cd ../
+ls -al
+vim Vagrantfile 
+ls -al
+cd scripts/
+ls -al
+vim light-sync-db.sh 
+drush sql-sync @nestledsu2.01test  @nestledsu2.01test2
+drush sql-sync @nestledsu2.01test -l careers.test-nestledsu2.acsitefactory.com  @nestledsu2.01test2
+cd projects/nestle-corporate/
+drush sa
+drush sql-sync @nestledsu2.01test -l careers.test-nestledsu2.acsitefactory.com status
+drush sql-sync @nestledsu2.01test status
+drush  @nestledsu2.01test status
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ status
+drush @nestledsu2.01test -l http://careers.test-nestledsu2.acsitefactory.com/ @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ sql-sync
+vim ~/.drush/nestledsu2.aliases.drushrc.php 
+vim drush/site-aliases/aliases.drushrc.php 
+drush sa
+drush cc drush
+drush sa
+drush @nestledsu2.01test.careers @nestledsu2.01test2.careers sql-sync
+drush
+drush @nestledsu2.01test.careers status
+drush @nestledsu2.01test status
+drush @nestledsu2.01test -l careers.test-nestledsu2.acsitefactory.com
+drush @nestledsu2.01test -l careers.test-nestledsu2.acsitefactory.com status
+drush @nestledsu2.01test2 -l careers.test2-nestledsu2.acsitefactory.com status
+drush sql-sync @nestledsu2.01test @nestledsu2.01test2 --source-database=nestledsudb254579 --target-database=nestledsudb252639
+drush @nestledsu2.01test ssh
+drush @nestledsu2.01test status
+drush @nestledsu2.01test2 -l careers.test2-nestledsu2.acsitefactory.com status
+drush sa
+drush sql-sync @nestledsu2.01test.careers @nestledsu2.01test2.careers
+ls -al
+vim drush/site-aliases/aliases.drushrc.php 
+drush sql-sync @nestledsu2.01test.careers @nestledsu2.01test2.careers
+drush cr @nestledsu2.01test2.careers
+drush @nestledsu2.01test2.careers cr
+drush rsync @nestledsu2.01test:%files/ @nestledsu2.01test2.careers:%files/
+drush rsync @nestledsu2.01test:%files/ @nestledsu2.01test2.careers:%files/ -y
+drush rsync @nestledsu2.01test.careers:%files/ @nestledsu2.01test2.careers:%files/ -y
+drush @tatelylecom.dev cr
+drush rsync @nestledsu2.01test.careers:%files/ @nestledsu2.01test2.careers:%files
+drush rsync @nestledsu2.01test.careers:%files/ @nestledsu2.01test2.careers:%files -y
+y
+drush rsync @nestledsu2.01test:%files/ @nestledsu2.01test2:%files -y
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ updb
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ cim
+drush @nestledsu2.01test2 -l http://careers.test2-nestledsu2.acsitefactory.com/ cr
+vagrant ssh
+vagrant up
+vagrant ssh
+git status
+git diff
+ls -al
+cd ../
+ls -al
+git status
+vagrant plugin list
+vagrant status
+vagrant -v
+vim box/config.yml 
+vagrant plugin list
+vagrant destroy
+ansible --version
+cd projects/wfmcom/
+ansible --version
+ansible
+brew install ansible
+vagrant up
+ansible
+ansible --version
+brew install unrar
+cd Desktop/Account\ Statements/
+ls -al
+unrar My\ Personals.rar 
+unrar -x My\ Personals.rar 
+ls -al
+unrar -x 'My Personals.rar'
+mv My\ Personals.rar MyPersonal.rar
+ls -al
+unrar x MyPersonal.rar 
+cd ~/projects/Acquia/ac_covermore/
+git fetch --all
+git status
+git merge github/deveop
+git merge github deveop
+git merge github/deveop
+git remote -v
+git status
+git pull github/develop
+git branch develop --set-upstream-to github/develop
+git fetch --all
+git reset --hard github/develop
+git push origin develop
+git pull origin develop
+git diff
+git push origin develop
+git push github develop
+drush sa
+drush @covermore.dev -l https://covermoredev.prod.acquia-sites.com/ uli
+drush @covermore.dev -l https://covermoredev.prod.acquia-sites.com/ user-create rahul --email=rahul.sharma@acquia.com
+drush @covermore.dev -l https://covermoredev.prod.acquia-sites.com/ user-create rahul --mail=rahul.sharma@acquia.com
+node -v
+node modules -v
+node
+node node_sass -v
+npm -v node_sass
+node -v
+npm update
+npm --version
+npm -v
+node node_sass -v
+node -v node_sass
+npm install --save node-sass@4.9.0
+git status
+npm install
+cd projects/tateandlyle/
+cd docroot/themes/custom/tateandlyle/
+ls -al
+npm install
+vim package.json 
+npm install
+npm package list
+history | grep gulp
+npm list
+npm list | grep gulp
+cd projects/novartis-corp/
+drush sa
+drush @novartisemea.dev -l http://dev.novartis.com/ pmi baidu_analytics
+drush @novartisemea.prod -l http://www.novartis.com/ pmi baidu_analytics
+cd ~/projects/CoverMore/
+git status
+vagrant up --provision
+git status
+git checkout develop
+git remote -v
+git fetch upstream/develop
+git fetch upstream develop
+git pull upstream develop
+git status
+git checkout -b COV-40-travis-vagrant-setup
+git status
+git add Vagrantfile box/* composer.* drush*
+git status
+git add .drush-use docroot/sites/default/local.drushrc.php 
+git status
+git checkout
+git status
+git commit -m 'COV-40: Added DrupalVM and Drush aliases and a local file to fetch from the correct site.'
+git push
+cd ../
+git clone git@github.com:acquia-pso/bac.git bac
+cd bac/
+ls -al
+cp -Rf build/* ../CoverMore/
+ls -al build/
+cp build/README.md ../CoverMore/build/
+drush sa
+cd projects/nestle-corporate/
+drush sa
+composer install
+./task.sh -l
+cd ../CoverMore/
+ls -al
+./task.sh setup
+./task.sh -l
+composer install
+./task.sh -l
+ls -al
+ls -al
+sudo chmod 766 task.sh 
+ls -al
+sudo chmod 755 task.sh 
+ls -al
+sudo chmod 755 drush.wrapper 
+ls -al
+git status
+./task.sh 
+composer install
+ls -al
+rm -Rf composer.lock vendor/
+ls -al
+composer install
+./task.sh 
+./task.sh
+./task.sh -l
+./task.sh setup
+cd projects/nestle-corporate/
+drush sa
+history | grep nestledsu2.01test.careers
+drush nestledsu2.01test.careers status
+drush @nestledsu2.01test.careers status
+drush @nestledsu2.01test2.careers status
+git status
+git checkout develop
+git status
+git reset
+git status
+git checkout develop
+git diff
+git reset --hard
+git status
+git checkout develop
+git checkout nestle-careers
+git fetch --all
+git checkout -b 'LCP-00-Fix-ACSF-ENV-Alias'
+vim drush/site-aliases/aliases.drushrc.php 
+git diff
+git status
+git add drush/site-aliases/aliases.drushrc.php
+git commit -m 'LCP-00: Updated ACSF environment drush alias.'
+git status
+git add blt/project.yml
+git status
+git commit -m 'LCP-00: Updated STAGE alias for the sync.'
+git push
+git status
+git checkout docroot
+git status
+git diff
+git reset --hard
+git status
+ls -al
+git status
+ls -al sites/
+git add sites/
+git status
+git commit -m 'COV-40: Added default local.settings.php file.'
+vim sites/default/settings/local.settings.php 
+git status
+git reset
+git status
+git add sites/
+git status
+rm sites/default/settings/local.settings.php
+git status
+git delete sites/default/settings/local.settings.php
+git remove sites/default/settings/local.settings.php
+git status
+git rm sites/default/settings/local.settings.php
+git status
+git commit -m 'COV-40: Added default local.settings.php file in sites folder in the root.'
+git add tests/
+git status
+git commit -m 'COV-40: Added tests - behat & phpunit default files.'
+git status
+git diff
+git status
+git add composer.*
+git status
+git commit -m 'COV-40: Added required composer dependencies.'
+git status
+git commit -m 'COV-40: Updated the README file and removed the base ACE file.'
+git status
+git checkout scripts/
+git status
+git reset
+git status
+git diff
+git status
+git add .gitignore 
+git status
+git commit -m 'COV-40: Properly updated the gitignore file.'
+git status
+git diff
+git reset 
+git status
+git diff
+vim .travis.yml 
+git staus
+git status
+git add .travis.yml 
+git status
+git add scripts/
+git build/
+git add build/
+git status
+ls -al
+composer install
+ls -al
+sudo chmod 755 drush.wrapper 
+sudo chmod 755 task.sh 
+ls -al
+git status
+cd projects/
+composer create-project --no-interaction acquia/blt-project 
+composer create-project --no-interaction acquia/blt-project learning-ui-patterns
+ls -al
+composer create-project --no-interaction acquia/blt-project learning-ui-patterns
+blt vm
+cd learning-ui-patterns/
+vagrant status
+vagrant status
+blt vm
+vagrant up --provision
+blt setup
+blt doctor
+vagrant status
+blt
+blt blt vm
+blt vm
+vagrant reload
+cd projects/learning-ui-patterns/
+vagrant destroy
+blt vm
+cd projects/learning-ui-patterns/
+vagrant destroy
+blt vm
+blt setup
+vagrant ssh
+blt
+blt recipes:ci:travis:init
+git remote -v
+git init
+git add *
+git commit -m "LUIP-00: Initial commit with BLT + Travis + VM configurations."
+git remote add origin git@github.com:vyasamit2007/learning-uip.git
+git push -u origin master
+composer require drupal/ui_patterns
+drush @learn-uip.local uli
+composer require drupal/admin_menu
+composer require drupal/admin_toolbar
+drush @learn-uip.local cr
+drush @learn-uip.local pmu admin_toolbar
+drush @learn-uip.local cr
+drush @learn-uip.local status
+drush @learn-uip.local cr
+blt
+git status
+git diff
+git checkout -b develop
+git status
+git add composer.*
+git status
+git commit -m 'LUIP-00: Added UI patters module & admin toolbar module.'
+git push
+ls -al
+composer require drupal/cog_tools
+composer require acquia-pso/cog_tools
+ls -al
+git clone git@github.com:vyasamit2007/cog_tools.git cog_tools
+ln -s docroot/modules/custom/cog_tools cog_tools
+ls -al
+cd docroot/modules/custom/
+ls -al
+ln -s cog_tools ../../../cog_tools
+ls -al
+cd ../
+ls -al
+cd custom/
+ls -alh
+cd ../../../
+ls -al
+ln
+ln -s cog_tools docroot/modules/custom/cog_tools
+ls -al
+ls -al docroot/modules/custom/
+cd docroot/modules/custom/
+ls -al
+rm cog_tools 
+mv ../../../cog_tools .
+ls -al
+drush @learn-uip.local cr
+git status
+git add cog_tools/
+git status
+git commit -m 'LUIP-01: Added cog_tools module.'
+ls -al
+cd ../../../
+git status
+git add docroot/modules/custom/cog_tools/
+git commit -m 'LUIP-01: Added cog_tools module.'
+ls -al
+rm -Rf docroot/modules/custom/cog_tools
+cd docroot/modules/custom/
+ls -al
+git status
+git clean -df
+git status
+git reset --hard
+git status
+git clone git@github.com:vyasamit2007/cog_tools.git cog_tools
+git status
+git add cog_tools/
+git status
+git commit -m 'LUIP-01: Added cog_tools module.'
+ls -al
+git commit -m 'LUIP-01: Added cog_tools module.' -n
+git status
+cd ../
+git status
+git add docroot/modules/custom/cog_tools/
+git status
+git commit -m -n --ammend
+git commit -m --ammend
+git commit -m --ammend -n
+git satus
+git status
+drush @learn-uip.local en cog_tools
+drush generate cog
+drush cc drush
+drush @learn-uip.local generate cog
+composer require drupal/bootstrap
+php -v
+cd docroot/themes/custom/uip_theme/
+ls -al
+npm install
+vagrant provision
+drush gen cog --answers '{"name":"Durian", "machine_name": "durian", "base_theme": "classy", "description": "What a nice theme.", "package": "Custom", "build_tasks": "yes", "layouts":"yes", "theme_settings":"yes","style_guide":"yes"}'
+drush @learn-uip.local generate cog
+cd ../../../../
+cd
+cd projects/learning-ui-patterns/
+drush @learn-uip.local generate cog
+cd docroot/themes/custom/uip_theme/
+npm run build
+npm install
+npm run build
+git status
+cd ../../../../
+git status
+git diff
+git status
+git add box/config.yml composer.* docroot/themes/custom/*
+git status
+git commit -m 'LUIP-02: Created custom theme based on cog_tools module.'
+git commit -m 'LUIP-02: Created custom theme based on cog_tools module.' -n
+git status
+git push
+blt
+blt | grep config
+drush @learn-uip.local en config_split -y
+drush config-export -y
+drush @learning-uip.local config-export -y
+drush @learn-uip.local config-export -y
+git status
+git add config/*
+git status
+git commit -m 'LUIP-03: Exported configurations.'
+composer require drupal/paragraph
+composer require drupal/paragraphs drupal/classy_paragraphs
+drush @learn-uip.local en paragraphs classy_paragraphs
+cd docroot/themes/custom/uip_theme/
+gulp build
+gulp watch
+gulp clean
+gulp watch
+drush @learn-uip.local cr
+gulp clean
+cd projects/learning-ui-patterns/
+git status
+composer require drupal/ds
+composer require drupal/field_group
+drush @learn-uip.local en field_group
+gulp watch
+drush @learn-uip.local cr
+drush @learn-uip.local en devel
+drush @learn-uip.local cr
+drush sa
+cd projects/novartis-corp/
+drush sa
+drush @novartisemea.dev -l http://dev.novartis.com/ uli
+git status
+cd projects/tateandlyle/
+git fetch --all
+git checkout release-1.1.3
+git reset --hard upstream/release-1.1.3
+git log
+git log 46331c4
+git revert 46331c4affa49737ecd9bc2f3c7d7945d7eef067 -m 1
+git status
+git add docroot/themes/custom/tateandlyle/build/main.css docroot/themes/custom/tateandlyle/sass/components/_carousel.scss
+git status
+git commit -m 'Revert of TALCD-147.'
+git commit -m 'TAL-00: Revert of TALCD-147.'
+git rever ba93e5654d64dd17e32088bfb4fc10e95ccec7e9 -m 1
+git revert ba93e5654d64dd17e32088bfb4fc10e95ccec7e9 -m 1
+git revert be1cabf96b5be2f483cffe7b3cff31c1df0ade0e -m 1
+git revert 23520c75a56192453fb90cf98c3360398a534927 -m 1
+git status
+cd docroot/themes/custom/tateandlyle/
+gulp watch
+cd ../../../
+git status
+cd ../
+git status
+git diff composer.json
+git diff
+git status
+git add composer.lock 
+rm docroot/modules/custom/tal_features_core/config/install/core.entity_view_display.node.webinar.teaser.yml
+git status
+git rm docroot/modules/custom/tal_features_core/config/install/core.entity_view_display.node.webinar.teaser.yml
+git status
+git log
+git revert --continue
+git push
+composer update
+composer update --lock-file
+composer update --lock
+git status
+git add composer.lock 
+git status
+git commit -m 'TAL-00: Updated the lock file with the latest composer.json file.'
+git push
+drush as
+drush sa
+drush @tatelylecom.prod cset system.performance cache.page.max_age 84600
+drush @tatelylecom.prod cget system.performance cache.page.max_age
+drush @tatelylecom.prod uli
+drush @tatelylecom.prod -l https://www.tateandlyle.com/ uli
+cd projects/nestle-corporate/
+ls -al
+blt
+git branch
+git fetch origin
+git checkout -b develop upstream/develop
+git checkout develop
+git fetch --all
+git reset --hard upstream/develop
+git push origin develop
+git merge release-1.1.3
+git add docroot/themes/custom/tateandlyle/build/main.css
+git merge --continue
+git checkout release-1.1.3
+git merge --no-ff develop
+git checkout release-1.1.3
+git status
+git merge --continue
+git checkout develop
+git status
+git push upstream develop
+git reset --hard upstream develop
+git fetch --all
+git reset --hard upstream/develop
+git push origin develop
+git branch
+git checkout master
+git fetch --all
+git reset --hard upstraem/master
+git reset --hard upstream/master
+git push origin master
+git remote -v
+git fetch --all
+git reset --hard upstream/master
+git push origin +master
+git status
+git branch
+git reset --hard upstream/master
+cd ../Acquia/
+ls -al
+cd tateandlyle_acquia/
+ls -al
+git remote -v
+cd ../
+git clone git@github.com:acquia-pso/tateandlyle.git tateandlyle_github
+cd tateandlyle_github/
+git remove -v
+git remote -v
+git reset --hard origin/master
+branch=master ; git fetch --all ; git checkout $branch ; git reset --hard origin/$branch
+tag=tl_release_1.1.3 ; tag_comment="T&L CD team Sprint 22 to Sprint 28 selective tickets." ; git tag $tag -a -m "$tag_comment" ; git push origin $tag
+drush @tatelylecom.prod -l www.tateandlyle.com cr
+cd ../../tateandlyle/
+drush @tatelylecom.prod -l www.tateandlyle.com cr
+drush @novartisemea.dev -l http://dev.novartis.com/ uli
+drush @tatelylecom.test -l https://comstg.prod.cloud.tateandlyle.com/ cr
+cd ../Acquia/tateandlyle_acquia/
+git fetch --all
+git tag
+git tag origin
+git tag -a
+git tag -l
+git remote -v
+git fetch tags
+git fetch tag
+git ls-remote --tags origin
+git tag -a
+git tag -v
+git tag -v tl_release_1.1.3-build
+git push --delete origin tl_release_1.1.3-build
+cd ../
+cd tateandlyle_github/
+git tag --delete tl_release_1.1.3-build
+git fetch --all
+git tag --delete tl_release_1.1.3-build
+git push --delete origin tl_release_1.1.3-build
+branch=master ; git fetch --all ; git checkout $branch ; git reset --hard origin/$branch
+git remote -v
+branch=master ; git fetch --all ; git checkout $branch ; git reset --hard origin/$branch
+tag=tl_release_1.1.3 ; tag_comment="T&L CD team Sprint 22 to Sprint 28 selective tickets." ; git tag $tag -a -m "$tag_comment" ; git push origin $tag
+git tag --delete tl_release_1.1.3
+git push --delete origin tl_release_1.1.3
+branch=master ; git fetch --all ; git checkout $branch ; git reset --hard origin/$branch
+tag=tl_release_1.1.3 ; tag_comment="T&L CD team Sprint 22 to Sprint 28 selective tickets." ; git tag $tag -a -m "$tag_comment" ; git push origin $tag
+drush @learn-uip.local uli
+vagrant up
+drush @learn-uip.local uli
+cd ../Acquia/ac_covermore/
+git status
+git remote -v
+git fetch --all
+git status
+git reset --hard github/develop
+git push origin develop
+drush sa
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com cr
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com cc all
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com fra
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com fra -y
+drush @tateandlyle.prod -l www.tateandlyle.com cr
+cd ../../tateandlyle/
+drush @tateandlyle.prod -l www.tateandlyle.com cr
+drush sa
+drush @tatelylecom.prod -l www.tateandlyle.com cr
+drush @tatelylecom.prod cset system.performance cache.page.max_age 300
+drush @tatelylecom.prod cget system.performance cache.page.max_age
+vagrant status
+drush @learn-uip.local uli
+drush @learn-uip.local en kint
+drush @learn-uip.local uli
+drush @learn-uip.local cr
+vagrant up
+drush @learn-uip.local cr
+gulp watch
+git status
+git add *
+git status
+git log
+git commit -m 'LUIP-04: Added UI Patterns files.'
+drush @learn-uip.local cex
+git status
+git add config/*
+git status
+git add docroot/themes/custom/uip_theme/*
+git status
+git reset --hard
+git status
+drush @learn-uip.local cex
+git status
+git add config/*
+git status
+git commit -m 'LUIP-05: Exported the site configurations.'
+git push
+drush @learn-uip.local cr
+composer install
+git status
+composer update
+drush @learn-uip.local cr
+drush @covermore.prod -l  covermore.com.au
+drush @covermore.prod -l https://covermore.com.au pmi Memcache
+drush sa
+cd ../../CoverMore/
+drush @covermore.prod -l https://www.covermore.com.au/ pmi memcache
+drush sa
+cd
+drush sa
+drush @covermore.prod -l https://www.covermore.com.au/ pmi memcache
+cd projects/learning-ui-patterns/
+git remote -v
+git add remote upstream learninguip@svn-3239.devcloud.hosting.acquia.com:learninguip.git
+git remote add upstream learninguip@svn-3239.devcloud.hosting.acquia.com:learninguip.git
+git fetch --all
+git checkout master
+git diff
+git status
+git add composer.lock docroot/themes/custom/*
+git status
+git commit -m 'LUIP-06: Updated drupal and small change in UI Pattern YML file.'
+git status
+git add docroot/themes/custom/uip_theme/uip_theme.ui_patterns.yml
+git commit -m 'LUIP-06: Updated drupal and small change in UI Pattern YML file.'
+git checkout master
+git fetch --all
+git checkout develop
+git push
+git checkout master
+git fetch --all
+git checkout develop
+git fetch --all
+git reset --hard origin develop
+git remote -v
+git reset --hard origin develop
+git remote -v
+git reset --hard origin develop
+git status
+git remote -d upstream
+git status
+cd projects/Acquia/ac_covermore/
+git fetch --all
+git reset --hard github/develop
+git push origin develop
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com cc all
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com fra -y
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com cc all
+cd projects/CoverMore/
+git status
+vagrant destroy && vagran up -y
+vagran up -y
+vagrant up
+git status
+cd projects/nestle-corporate/
+vagrant status
+cd ../tateandlyle/
+vagrant status
+cd ../tatelyle/
+vagrant status
+cd ../wfmcom/
+vagrant status
+ls -al
+pstorm
+drush sa
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com cc all
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com cc all
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com uli
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com fra -y
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com feature-revert -y
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com | grep feature
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com
+drush @wfmcom.dev5 features-revert-all
+drush @wfmcom.dev5 features-revert-all -y
+drush @wfmcom.dev6 features-revert-all -y
+drush @wfmcom.dev5 cc all
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com uli
+cd ../Acquia/ac_covermore/
+git fetch --all
+git reset --hard github/develop
+git push origin develop
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com cc all
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com fra -y
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com cc all
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com fra -y
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com cc all
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com pmi 'cm_admin'
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com pmi 'shield'
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com vget 'shield'
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com cc all
+git fetch --all
+git reset --hard github/develop
+git push origin develop
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com cc all
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com fra -y
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com cc all
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com drush user-create newuser --mail="person@example.com" --password="letmein"
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com drush user-create rahul.sharma --mail="rahul.sharma@acquia.com" --password="rahul123"
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com user-create rahul.sharma --mail="rahul.sharma@acquia.com" --password="rahul123"
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com user-add-role administrator --mail="rahul.sharma@acquia.com"
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com uli
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com uli --no-browser
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com uli
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com uli
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com uli
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com updb
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com fra -y
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com en features
+drush @wfmcom.dev5 uli
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com en features
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com fra -y
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com features-revert-all -y
+drush @wfmcom.dev5 features-revert-all -y
+drush @wfmcom.dev5 cc all
+drush @wfmcom.dev5 en features
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com uli
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com uli
+drush @wfmcom.prod -l www..wholefoodsmarket.com uli
+drush sa
+drush @wfmcom.prod -l https://www.wholefoodsmarket.com/ status
+drush @wfmcom.prod -l https://www.wholefoodsmarket.com/ uli
+drush @wfmcom.prod -l https://www.wholefoodsmarket.com/ uli --no-browser
+drush @wfmcom.prod -l https://m.wholefoodsmarket.com/ uli --no-browser
+git status
+git status
+git branch
+cd ../../CoverMore/
+git status
+git add *
+git status
+git reset
+git status
+git diff
+git status
+git add drush.wrapper drush/drushrc.php 
+git status
+git add .travis.yml build/* project.yml scripts/* sites/default/local.drushrc.php task.sh 
+git status
+git log
+git status
+git commit -m 'COV-40: Added travis, vagrant, phig tasks.sh, etc.'
+git push
+composer install -v
+git status
+php -v
+history | grep 5.6
+history | grep '5.6'
+history | grep 'brew'
+brew link php56
+brew install php56
+brew link php56
+brew link php56 -f
+brew unlink php@7.1
+brew link php56 -f
+php 0v
+php -v
+echo 'export PATH="/usr/local/opt/php@5.6/bin:$PATH"' >> ~/.bash_profile 
+echo 'export PATH="/usr/local/opt/php@5.6/sbin:$PATH"' >> ~/.bash_profile
+source ~/.bash_profile 
+php -v
+composer update --lock
+composer update
+git status
+git diff
+git status
+git add composer.lock
+git status
+git commit -m 'COV-40: Updated packages based on PHP5.6.'
+git push
+vagrant hault
+vagrant status
+vagrant halt
+vagrant up
+vagrant ssh
+cd projects/wfmcom/
+git checkout develop
+git remote -v
+git fetch --all
+git reset --hard upstream/develop
+git push origin develop
+cd docroot/sites/all/themes/
+ls -al
+npm install
+gulp
+gulp build
+ls -al
+cd projects/wfmcom/documentation/
+ls -al
+cat db-shrink.md 
+cat README.txt 
+grunt prod
+gulp
+ruby -v
+compass -v
+brew install ompass
+brew install compass
+gem update --system
+sudo gem update --system
+gem install compass
+sudo gem install compass
+rvm install 2.1.1
+bundle install
+grunt -version
+gem install compass
+ERROR:  While executing gem ... (Gem::FilePermissionError)
+echo $PATH
+gem install compass --user-install
+sudo gem update --system
+gulp build
+which compass
+which gem
+export GEM_HOME="$HOME/.gem/ruby/2.0.0"
+export GEM_PATH="$HOME/.gem/ruby/2.0.0"
+export GEM_HOME="$HOME/.gem/ruby/2.0.0"
+export GEM_PATH="$HOME/.gem/ruby/2.0.0"
+gem env
+cd projects/wfmcom/
+cd docroot/sites/all/themes/
+ls -al
+gulp build
+compass -v
+ruby -v
+vim ~/.bash.local 
+cd projects/wfmcom/docroot/sites/all/themes/
+gulp build
+vim ~/.bash_profile 
+cd projects/wfmcom/docroot/sites/all/themes/
+compass -v
+ruby -v
+gulp build
+ruby -v
+compass version
+gem install compass
+compass version
+gem update --system
+gulp
+ls -al
+rm -Rf node_modules/
+npm install
+gulp
+vagrant ssh
+cd projects/wfmcom/
+vagrant status
+vagrant ssh
+cd projects/wfmcom/
+ls -al
+cd docroot/sites/all/themes/
+ls -al
+cd brand_camp_theme/
+ls -al
+cat brand_camp_theme.info 
+:q!
+cd projects/CoverMore/
+drush @covermore.prod -l https://www.covermore.com.au/ pmi fast_404
+drush @covermore.prod -l www.covermore.com.au pmi fast_404
+drush @covermore.prod -l www.covermore.com.au status
+vim /Users/amit.vyas/projects/CoverMore/drush/site-aliases/aliases.drushrc.php
+drush @covermore.prod -l https://www.covermore.com.au/ pmi fast_404
+git status
+git add drush/site-aliases/aliases.drushrc.php 
+git status
+git add .travis.yml 
+git status
+git commit -m 'COV-40: Removed chromedriver installation files and updated Travis.'
+git push
+git status
+git add .travis.yml 
+git status
+git commit -m 'COV-40: Removed the Behat test cases task from Travis, since we do not use it.'
+git push
+git status
+ls -al
+git add build/*
+git status
+git add build/*
+git status
+git commit -m 'COV-40: Deploy & validate tasks updated.'
+git push
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com uli --no-browser
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com uli --no-borwser
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com uli --no-browser
+drush @wfmcom.prod -l https://www.wholefoodsmarket.com/ uli --no-browser
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com uli --no-browser
+cd projects/wfmcom/
+git fetch --all
+git checkout feature/WEB-73
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com uli --no-browser
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com en views_ui
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com uli --no-browser
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com cc all
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com cc all
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com uli --no-browser
+cd projects/wfmcom/
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com cc all
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com uli
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com cc all
+cd projects/CoverMore/
+cd docroot/sites/all/modules/custom/cm_policy_multistep/
+find . -name '*.*' | xargs wc -l
+ls -al
+cd cm_common/
+ls -al
+find . -name '*.*' | xargs wc -l
+cd ../cm_deeplink/
+find . -name '*.*' | xargs wc -l
+cd ../cm_healix/
+find . -name '*.*' | xargs wc -l
+cd ../cm_impulse/
+find . -name '*.*' | xargs wc -l
+CD ../cm_payment/
+find . -name '*.*' | xargs wc -l
+cd ../cm_payment
+find . -name '*.*' | xargs wc -l
+cd ../cm_policy_multistep
+cd ../cm_policy_multistep_deeplink/
+find . -name '*.*' | xargs wc -l
+cd ../cm_policy_multistep_emc/
+find . -name '*.*' | xargs wc -l
+cd ../cm_policy_multistep_payment/
+find . -name '*.*' | xargs wc -l
+cd ../cm_policy_multistep_plan_option/
+find . -name '*.*' | xargs wc -l
+cd ../cm_policy_multistep_travellers/
+find . -name '*.*' | xargs wc -l
+cd ../cm_quote_form/
+find . -name '*.*' | xargs wc -l
+cd ../
+ls -al
+find . -name 'cm_policy_multistep.*' | xargs wc -l
+drush @covermore.prod -l https://www.covermore.com.au/ pml | grep 'cm_policy'
+drush @covermore.prod -l https://www.covermore.com.au/ pml | grep 'cm_common'
+drush @covermore.prod -l https://www.covermore.com.au/ pml | grep 'cm_deeplink'
+drush @covermore.prod -l https://www.covermore.com.au/ pml | grep 'cm_healix'
+drush @covermore.prod -l https://www.covermore.com.au/ pml | grep 'cm_impluse'
+drush @covermore.prod -l https://www.covermore.com.au/ pml | grep 'cm_impulse'
+drush @covermore.prod -l https://www.covermore.com.au/ pml | grep 'cm_payment'
+drush @covermore.prod -l https://www.covermore.com.au/ pml | grep 'cm_quote_form'
+drush @covermore.prod -l https://www.covermore.com.au/ pml | grep 'cm_westpac'
+drush @wfmcom.prod -l https://www.wholefoodsmarket.com/ uli
+cd projects/CoverMore/
+./task.sh 
+./task.sh tests:all
+./task.sh 
+vim build/custom/phing/build.yml 
+ls -al
+rm build/custom/phing/build.yml 
+./task.sh 
+vendor/bin/phpunit 
+cd ../Acquia/ac_covermore/
+git fetch --all
+git reset --hard github/develop
+git push origin develop
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+cd ../
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com cc all
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com fra -y
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com cc all
+cd projects/Acquia/
+ls -al
+cd ac_covermore/
+git status
+git fetch --all
+git remote -v
+git reset --hard origin develop
+git branch -a
+git fetch --tags
+cd ../
+git clone --branch develop covermore@svn-3849.prod.hosting.acquia.com:covermore.git ac_cm_migration
+cd ac_cm_migration/
+git branch -a
+git fetch --tags
+git fetch --all
+git tag
+git branch -a
+git remote rm origin
+git remote add origin svn-29892.prod.hosting.acquia.com:covermoreaus.git
+git push origin --all
+git remote -v
+git remote rm origin
+git remote add origin covermoreaus@svn-29892.prod.hosting.acquia.com:covermoreaus.git
+git push origin --all
+git push --tags
+git branch -a
+cd ../ac_covermore/
+git branch -a
+git remote add origin_original covermore@svn-3849.prod.hosting.acquia.com:covermore.git
+git fetch --all
+cd ../ac_cm_migration/
+git remote add origin_original covermore@svn-3849.prod.hosting.acquia.com:covermore.git
+git fetch --all
+git push origin --all
+git branch -a
+git push origin --all
+git branch -a
+git remote rm origin_original
+git branch -a
+git remote add origin_original covermore@svn-3849.prod.hosting.acquia.com:covermore.git
+git checkout origin_original master
+git remote -v
+git remote rm origin
+git remote -v
+git remote
+git remote rename origin_original origin
+git remote -v
+git branch -a
+git fetch --all
+git checkout AcquiaRA-2016-02-25-2-51-16
+git checkout AcquiaRA-2016-11-23-4-19-40
+git checkout AcquiaRA-2018-07-20-09-42-09
+git checkout acq_dev_purchase_path
+git checkout acq_prod
+git checkout acq_prod_CMPD-1143
+git checkout gigya
+git checkout master
+git checkout qb
+git checkout speed
+git checkout stage
+git checkout upd5865
+git checkout issue5534-js
+git checkout issue5577
+git checkout issue5642-old-quote-box
+git branch -a
+git checkout issue5692-blog
+git checkout issue5889
+git checkout issue5916
+git checkout issue5925-home
+git checkout issue6103-responsiveness
+git checkout issue6261-speed
+git checkout issue6262-sprites
+git checkout issue7086_myaccount
+git checkout issue7088
+git checkout issue7310_compliance
+git checkout 
+git checkout issue7330-qb-replication
+git checkout jquery
+git remote -v
+git remote rm origin
+git remote add origin covermoreaus@svn-29892.prod.hosting.acquia.com:covermoreaus.git
+git push --all
+git push origin --all
+git push origin +master
+drush sa
+drush acquia-update
+drush sa
+drush @covermoreaus.dev ssh
+drush sa
+drush sql-sync @covermore.dev @covermoreaus.dev
+drush rsync @covermore.dev:/mnt/files/covermore.dev/backups/ @covermoreaus.dev:/mnt/files/covermoreaus.dev/backups
+drush @covermore.dev ssh
+drush @covermoreaus.dev ssh
+drush rsync @covermore.dev:/mnt/files/covermore.dev/backups/ @covermoreaus.dev:/mnt/files/covermoreaus.dev/backups -y
+drush rsync @covermore.dev:/mnt/files/covermore.dev/backups/* @covermoreaus.dev:/mnt/files/covermoreaus.dev/backups -y
+drush @covermoreaus.dev ssh
+drush rsync @covermore.dev:/mnt/files/covermore.dev/backups/* @covermoreaus.dev:/mnt/files/covermoreaus.dev/backups/old_environment_backups -y
+drush @covermoreaus.dev ssh
+drush rsync @covermore.dev:/mnt/files/covermore.dev/backups/* @covermoreaus.dev:/mnt/files/covermoreaus.dev/backups/old_environment_backups -y
+drush @covermoreaus.dev ssh
+cd ~/Desktop/
+cd CoverMore\ DB\ Backups/
+ls -al
+cd covermore/
+ls -al
+drush @covermoreaus.prod -l covermoreaus.prod.acquia-sites.com sql-sync
+tar -xvzf backup-2018-07-24-08-08-covermore-83937923.sql.gz
+drush @covermoreaus.prod -l covermoreaus.prod.acquia-sites.com sqlc < backup-2018-07-24-08-08-covermore-83937923.sql
+drush @covermoreaus.prod -l covermoreaus.prod.acquia-sites.com status
+drush @covermoreaus.prod ssh
+drush @covermoreaus.dev ssh
+ls -al
+cd ../../
+cd ../
+ls -al
+cd projects/Acquia/
+ls -al
+cd ac_cm_migration/
+ls -al
+git branch
+git checkout develop
+git status
+ls -al
+vim docroot/sites/default/settings.php 
+git status
+git add docroot/sites/default/settings.php 
+git status
+git commit -m 'COV-00: Update in the settings.php for PCI hardware.'
+git push
+git remote -v
+drush @covermoreaus.dev status
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com status
+cd ../../CoverMore/
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com status
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com sqlc < ~/Desktop/CoverMore\ DB\ Backups/covermore/backup-2018-07-24-08-08-covermore-83937923.sql
+git status
+ls -al
+git checkout stage
+git status
+git reset --hard
+ls -al
+vim docroot/sites/default/settings.php 
+ls -al
+git tag
+git tag -i 2018-06-26-1-2
+git show 2018-06-26-1-2
+git checkout master
+git status
+git log
+ls -al
+git fetch --all
+git checkout develop
+git log
+git checkout master
+git cherry-pick ad5332e5b336f7bbfa0a016a465756bafc9a9e7a
+git status
+git log
+git push origin master
+git log
+ls -al
+tag=2018-06-24-pci ; tag_comment="Updated settings.php file acquia cloud variable" ; git tag $tag -a -m "$tag_comment" ; git push origin $tag
+tag=2018-07-24-pci ; tag_comment="Updated settings.php file acquia cloud variable" ; git tag $tag -a -m "$tag_comment" ; git push origin $tag
+drush @covermoreaus.prod -l covermoreaus.prod.acquia-sites.com sqlc < ~/Desktop/CoverMore\ DB\ Backups/covermore/backup-2018-07-24-08-08-covermore-83937923.sql
+ls -al
+cd drush/site-aliases/
+ls -al
+vim aliases.drushrc.php 
+ls -al
+drush @covermoreaus.prod ssh
+drush rsync @covermore.dev status
+drush rsync @covermore.dev:%files @covermoreaus.dev:%files
+vim aliases.drushrc.php 
+vim ~/.drush/covermore.aliases.drushrc.php 
+vim ~/.drush/covermoreaus.aliases.drushrc.php 
+drush sa
+drush rsync @cm.prod:%files/ @cmaus.prod:%files
+drush rsync @cm.prod status
+drush @cm.prod status
+drush @cm.prod ssh
+drush @cmaus.prod ssh
+drush rsync @cm.prod:/mnt/gfs/covermore/files/ @cmaus.prod:/mnt/gfs/covermoreaus/files
+drush rsync --progress @cm.prod:/mnt/gfs/covermore/files/ @cmaus.prod:/mnt/gfs/covermoreaus/files
+drush rsync --progress @cm.prod:/mnt/gfs/covermore/files/ @cm.local:%files
+drush @cm.local status
+vagrant up
+drush @cm.local status
+drush rsync --progress @cm.prod:/mnt/gfs/covermore/files/ @cm.local:%files
+drush @cm.prod
+drush @cm.prod | grep files
+drush @cm.prod ssh
+drush rsync --progress @cm.prod:/mnt/gfs/covermore/sites/default/files/ @cmaus.prod:/mnt/gfs/covermoreaus/sites/default/files
+drush @cm.prod ssh
+wget https://www.covermore.com.au/sites/default/files/20180724-files.tar.gz
+brew install wget
+wget
+wget https://www.covermore.com.au/sites/default/files/20180724-files.tar.gz
+ls -al
+rm 20180724-files.tar.gz
+ls -al
+mv 20180724-files.tar.gz.1 20180724-files.tar.gz
+ls -al
+drush rsync 20180724-files.tar.gz  @cmaus.prod:/mnt/gfs/covermoreaus/sites/default/files
+drush rsync 20180724-files.tar.gz  @cmaus.prod:/mnt/gfs/covermoreaus/sites/default/files/backup
+drush @cmaus.prod ssh
+drush @cmaus.prod cr
+drush @cmaus.prod cc all
+drush @cmaus.prod uli
+drush @cmaus.prod ssh
+cd projects/wfmcom/
+git fetch --all
+git branch -a | grep `feature/WEB-112_int`
+git branch -a | grep 'feature/WEB-112_int'
+cd projects/CoverMore/
+cd ../Acquia/ac_covermore/
+git fetch --all
+git remote -v
+git fetch --all
+git reset --hard github/develop
+git push origin develop
+git fetch --all
+git reset --hard github/develop
+git push origin develop
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+cd../
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+cd ../
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+cd ../CoverMore/
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+ls -al
+composer install
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+vendor/drush/drush/drush
+cd ../
+which drush
+drush
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+drush @covermore.dev updb
+cd CoverMore/
+ls -al
+drush @covermore.dev ssh
+ls -al
+drush @cm.dev status
+drush @cm.dev updb
+git status
+cat .gitignore | grep vendor
+git checkout develop
+git diff
+ls -al
+git reset --hard
+git status
+git checkout develop
+git fetch --all
+git reset --hard upstream/develop
+git push origin develop
+git status
+git add vendor
+git add vendor -f
+git status
+git reset --hard upstream/develop
+git status
+cd vendor/bin
+cd vendor
+ls -al
+cd ../
+composer install
+cd vendor/bin/
+ls -al
+cd ../../
+drush @cm.dev updb
+drush9 @cm.dev updb
+drush @cm.dev updb
+ls -al
+drush --version
+drush @cm.dev ssh
+vagrant up
+drush @cm.local status
+drush @cm.local updb
+ls -al
+drush @cm.local sqli < ~/Desktop/CoverMore\ DB\ Backups/covermore/backup-2018-07-24-08-08-covermore-83937923.sql
+drush sa
+drush @cm.local status
+ls -al
+drush @cm.local status
+drush cc drush
+drush @cm.local status
+drush @cm.local updb
+drush @cm.local sqli < ~/Desktop/CoverMore\ DB\ Backups/covermore/backup-2018-07-24-08-08-covermore-83937923.sql
+drush @cm.local cc all
+drush @cm.local status
+drush @cm.local sqli < ~/Desktop/CoverMore\ DB\ Backups/covermore/backup-2018-07-24-08-08-covermore-83937923.sql
+drush @cm.local sqlc < ~/Desktop/CoverMore\ DB\ Backups/covermore/backup-2018-07-24-08-08-covermore-83937923.sql
+drush @cm.local updb
+drush @cm.local uli
+drush @cm.local updb
+drush @cm.dev updb
+ls -al
+drush @covermore.dev ssh
+drush sa
+drush @covermore.dev.livedev ssh
+drush @covermore.dev status
+drush @covermore.prod status
+vagrant ssh
+drush @covermoreaus.prod -l http://covermoreaus.prod.acquia-sites.com/ uli
+vim /Users/amit.vyas/.ssh/known_hosts
+drush @covermoreaus.prod -l http://covermoreaus.prod.acquia-sites.com/ uli
+drush @covermoreaus.prod -l http://covermoreaus.prod.acquia-sites.com/ cc all
+drush @covermoreaus.prod -l https://covermoreaus.prod.acquia-sites.com/ cc all
+drush @covermoreaus.prod -l https://covermoreaus.prod.acquia-sites.com/ uli
+drush @covermoreaus.prod -l https://covermoreaus.prod.acquia-sites.com/ cc all
+drush @covermoreaus.prod -l www.covermore.com.au cc all
+drush @covermoreaus.prod -l www.covermore.com.au uli
+drush @covermoreaus.prod -l https://www.covermore.com.au uli
+drush @covermoreaus.prod -l https://covermoreaus.prod.acquia-sites.com/ uli
+cd projects/wfmcom/
+git fetch --all
+git remote -v
+git reset --hard upstream/develop
+git push origin develop
+git checkout -b sprint-15_int
+git merge WEB-65
+git merge upstream/feature/WEB-65
+git merge upstream/feature/WEB-215
+git merge upstream/feature/WEB-211-Caret-in-the-questions
+git merge upstream/feature/WEB-207
+git merge upstream/feature/WEB-173
+vim docroot/sites/all/modules/features/store/store.install
+git status
+git checkout docroot/sites/all/modules/features/store/store.install
+git status
+git merge
+git merge -h
+git merge --abort
+git status
+git branch -m 'feature/sprint-15_int'
+git push
+git merge upstream/feature/WEB-178-Customer-Care-FAQ-breadcrumbs
+git push
+git push upstream feature/sprint-15_int
+cd ../Acquia/ac_covermore/
+git fetch --all
+git reset --hard github/develop
+git push origin develop
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+drush acquia-update
+cd projects/wfmcom/
+git remote -v
+git log
+ls -al
+git log
+git fetch --all
+git merge upstream/feature/WEB-156
+git merge upstream/feature/WEB-210-Font-Size-Discrepancies
+git merge upstream/feature/WEB-123
+git push
+git push upstream feature/sprint-15_int
+git log
+cd projects/Acquia/ac_covermore/
+git fetch --all
+git remote -v
+git remote rm origin_original
+git remote -v
+git fetch --all
+git remote rm origin
+git remote add origin covermore@svn-3849.prod.hosting.acquia.com:covermore.git
+git fetch --all
+git git reset --hard github/develop
+git reset --hard github/develop
+git push origin develop
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com fra -y
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com cc all
+drush @tatelyle.dev -l http://yourbakerysnacksolutions.dev.cloud.tateandlyle.com/ cget 'simplesamlphp_auth'
+drush @tatelyle.dev -l http://yourbakerysnacksolutions.dev.cloud.tateandlyle.com/ cget 'simplesamlphp_auth.settings'
+drush @novartisemea.dev -l http://dev.novartis.com/ vget 'simplesamlphp_auth_unique_id'
+drush @novartisemea.dev -l http://dev.novartis.com/ vget 'simplesamlphp_auth_username'
+drush @novartisemea.dev -l http://dev.novartis.com/ vget 'simplesamlphp_auth_user_name'
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com pmi store
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com pmi store
+drush @wfmcom.prod -l www.wholefoodsmarket.com pmi store
+git fetch --all
+git reset --hard github/develop
+git push origin develop
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com updb
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com fra -y
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com cc all
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com fra -y
+drush @covermore.dev -l covermoredev.prod.acquia-sites.com fr cm_blog
+cd ../ac_cm_migration/
+cd ../../CoverMore/
+ls -al
+git remote -v
+history | grep 'cm.'
+history | grep 'covermoreaus'
+drush @covermoreaus.prod -l covermoreaus.prod.acquia-sites.com sqlc < ~/Desktop/CoverMore\ DB\ Backups/covermore/backup-2018-07-31-10-10-covermore-84517671.sql
+history | grep 'covermore'
+history | grep 'covermore.prod'
+drush @covermore.prod ssh
+drush @covermoreaus.prod ssh
+ls -al
+drush @covermoreaus.prod -l https://covermoreaus.prod.acquia-sites.com/ uli
+drush @covermore.prod -l https://covermore.prod.acquia-sites.com/ uli
+drush @wfmcom.prod -l www.wholefoodsmarket.com uli
+cd projects/Acquia/ac_cm_migration/
+git remote -v
+git fetch --all
+git remote rm origin
+git remote add origin covermoreaus@svn-24511.prod.hosting.acquia.com:covermoreaus.git
+git fetch --all
+git remote add origin_old covermore@svn-3849.prod.hosting.acquia.com:covermore.git
+git remote -v
+git fetch --all
+git checkout -b develop origin_old/develop
+git branch
+git branch -D develop
+git checkout -b develop origin_old/develop
+git push origin develop
+git push origin +develop
+git merge origin/master
+git diff
+vim docroot/sites/all/themes/custom/covermore/js/js_in_node.js
+vim docroot/sites/all/modules/feature/focus_point_feature/focus_point_feature.info
+git merge --abort
+git status
+git reset --hard
+git checkout origin/master
+git checkout -b master origin/master
+git branch -D master
+git branch -b master origin/master
+git checkout -b master origin/master
+git fetch --all
+git reset --hard origin/master
+git branch -a origin
+git branch -a
+git merge origin/pci-migrate-bugfix
+git diff
+vim docroot/sites/default/settings.php
+git remote add github git@github.com:acquia-pso/CoverMore.git
+git fetch --all
+git reset --hard origin master
+git branch
+git status
+git reset --hard origin master
+git reset --hard origin/master
+git push github master
+git branch -a
+git checkout pci-migrate-bugfix origin pci-migrate-bugfix
+git checkout -b pci-migrate-bugfix origin pci-migrate-bugfix
+git fetch --all
+git checkout pci-migrate-bugfix
+git reset --hard origin/pci-migrate-bugfix
+git push github pci-migrate-bugfix
+cd Desktop/
+nano pci-migrate-bugfix.patch
+vim pci-migrate-bugfix.patch
+cd ../projects/learning-ui-patterns/
+ls -al
+vagrant up
+ls -al
+cd ../CoverMore/
+git fetch --all
+git rebase master
+git status
+git reset --hard upstream/develop
+sudo chmod 777 docroot/sites/default/settings.php
+git reset --hard upstream/develop
+sudo chmod 777 docroot/sites/default/settings.php
+ls -al docroot/sites/default
+sudo chmod 777 docroot/sites/default/settings.php
+sudo chmod -Rf 777 docroot/sites/default
+git reset --hard upstream/develop
+git rebase upstream/master
+vim docroot/sites/all/themes/custom/covermore/css/cmpd-1153.css
+git rebase --continue
+git add docroot/sites/all/themes/custom/covermore/css/cmpd-1153.css
+git rebase --continue
+vim docroot/sites/all/themes/custom/focus_point/css/style2.css.map
+vim docroot/sites/all/modules/custom/cm_focus_point/cm_focus_point_payment_form/cm_focus_point_payment_form_purchase.inc
+git add docroot/sites/all/modules/custom/cm_focus_point/cm_focus_point_payment_form/cm_focus_point_payment_form_purchase.inc
+cd docroot/sites/all/themes/custom/focus_point/
+ls -al
+cd ../
+ls -al
+cd ../
+ls -al
+cd custom/
+ls -al
+cd focus_point/
+ls -al
+cat README.md 
+cd ../../../../
+cd ../../
+git status
+vim docroot/sites/all/themes/custom/focus_point/css/style.css.map
+vim docroot/sites/all/themes/custom/focus_point/css/style2.css.map
+git add docroot/sites/all/themes/custom/focus_point/css/style.css.map docroot/sites/all/themes/custom/focus_point/css/style2.css.map
+git rebase --continue
+git rebase --abort
+git reset --hard
+git reset --hard upstream/develop
+git fetch --all
+ls -al
+git remote -v
+git fetch --all
+git reset --hard upstream/develop
+git remote -v
+git push origin develop
+git remote -v
+git checkout develop
+git status
+git fetch --all
+git reset --hard github/develop
+git push origin develop
+drush @covermoreaus.dev -l covermoredevaus.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+vim /Users/amit.vyas/.ssh/known_hosts
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ uli
+drush @covermoreaus.prod -l https://www.covermore.com.au/ pmi cm_general
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ pmi cm_general
+git fetch --all
+git reset --hard github/develop
+git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ pmi cm_general
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ pmi cm_social
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ pmi cm_landing_page
+cd projects/
+git clone git@bitbucket.org:amit-vyas/wfmcomestore.git
+cd ../ac_covermore/
+git remote-v
+git remote -v
+cd ../ac_cm_migration/
+git remote -v
+git fetch --all
+git reset --hard github/develop
+git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com cc all
+cd wfmcomestore/
+git fetch --all
+git reset --hard github/develop
+git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com cc all
+git fetch --all
+git reset --hard github/develop
+git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com cc all
+git fetch --all
+cd ../wfmcom
+git fetch --all
+git checkout develop
+git reset --hard upstream/develop
+git checkout -b feature/sprint-16_int
+git merge upstream/feature/WEB-272
+git merge upstream/feature/WEB-255
+git push
+git push --set-upstream origin feature/sprint-16_int
+cd projects/wfmcom
+history | grep wfmcom@
+history | grep 'wfmcom.prod'
+drush @wfmcom.prod -l www..wholefoodsmarket.com role-list
+drush @wfmcom.prod -l www..wholefoodsmarket.com status
+cd ../
+drush @wfmcom.prod -l www..wholefoodsmarket.com status
+history | grep 'wfmcom.dev'
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com role-list
+git fetch --all && git reset --hard github/develop && git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+git fetch --all && git reset --hard github/develop && git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+git fetch --all && git reset --hard github/develop && git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+git fetch --all && git reset --hard github/develop && git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+git fetch --all && git reset --hard github/develop && git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+git fetch --all && git reset --hard github/develop && git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+git fetch --all && git reset --hard github/develop && git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+git fetch --all && git reset --hard github/develop && git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+cd wfmcom
+git checkout develop
+git fetch --all
+git reset --hard upstream/develop
+git remote -v
+git push origin develop
+git checkout -b sprint-17_int
+git merge upstream/feature/WEB-238
+git merge upstream/feature/WEB-273
+git push 
+git push --set-upstream origin sprint-17_int
+git checkout develop
+git branch -D sprint-17_int
+git branch -D upstream/sprint-17_int
+git checkout -b feature/sprint-17_int
+git merge upstream/feature/WEB-238
+git merge upstream/feature/WEB-273
+git push --set-upstream origin sprint-17_int
+git push
+git push --set-upstream origin feature/sprint-17_int
+git push upstream feature/sprint-17_int
+git remote -v
+git fetch --all && git reset --hard github/develop && git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+git fetch --all && git reset --hard github/develop && git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+git fetch --all
+git merge upstream/feature/WEB-273
+git push origin feature/sprint-17_int
+git push upstream feature/sprint-17_int
+git fetch --all
+git fetch --all
+git push upstream github/release-1.1.0
+git checkout -b release-1.1.0 github/release-1.1.0
+git reset --hard github/release-1.1.0
+git push upstream github/release-1.1.0
+git push
+git remote -v
+git push origin release-1.1.0
+git merge upstream/feature/WEB-238
+git merge upstream/feature/WEB-281
+git merge upstream/feature/WEB-274
+vim docroot/sites/all/modules/custom/estore/public/css/style.css
+cd docroot/sites/all/modules/custom/estore
+ls -al
+npm install
+npm install -g npm
+cd../../../
+cd ../../../../../
+cd ../
+git merge
+git merge upstream/feature/WEB-274
+git merge --continue
+git merge --stop
+git merge --abort
+git log
+git push
+git push upstream feature/sprint-17_int
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ updb
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ cc all
+git merge upstream/feature/WEB-299
+git fetch --all
+git merge upstream/feature/WEB-299
+git push
+git push upstream feature/sprint-17_int
+git fetch --all
+git merge upstream/feature/WEB-274
+git push
+git push upstream feature/sprint-17_int
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ ev "drupal_set_installed_schema_version('cm_general', 70)"
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ ev "drupal_set_installed_schema_version('cm_general', 7000)"
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ ev 'drupal_set_installed_schema_version("cm_general", 7000)'
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ pmi cm_genral
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ pmi cm_general
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ ev 'drupal_set_installed_schema_version("cm_general", 7000)'
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ sqlq "UPDATE system SET schema_version=8102 WHERE name='flllpdf' AND type='module'"
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ sqlq "UPDATE system SET schema_version=1 WHERE name='cm_general' AND type='module'"
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ pmi cm_general
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ updb
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ dis amp
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ cc all
+drush sa
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ cget system.performance cache.page.max_age
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ vget system.performance
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ vget max_age
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ vget cache
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ uli
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ vget cache.page_cache_maximum_age
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ vget page_cache_maximum_age
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ vset page_cache_maximum_age 84600
+drush @covermoreaus.prod -l https://www.covermore.com.au vset page_cache_maximum_age 21600
+git log
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ pmi fast_404
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ pmi paragraph
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ pmi views
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ pmi fast_404
+git fetch --all
+git merge upstream/feature/WEB-299
+git push
+git push upstream feature/sprint-17_int
+drush @covermoreaus.prod -l https://www.covermore.com.au vset page_cache_maximum_age 84600
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ uli
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ fr cm_site
+git fetch --all
+git checkout master
+git remote -v
+git reset github/master
+git reset --hard
+ls -al
+git remote -v
+git reset --hard github/master
+git push origin master
+tag=cm_release_1.1.0 ; tag_comment="Updated settings.php file acquia cloud variable" ; git tag $tag -a -m "$tag_comment" ; git push origin $tag
+tag=cm_release_1.1.0 ; tag_comment="CoverMore CD team sprint 1 to sprint 4 tickets" ; git tag $tag -a -m "$tag_comment" ; git push github $tag
+git rm $tag
+git tag -l
+git tag rm cm_release_1.1.0
+git push github cm_release_1.1.0
+git rm rm
+git push github :cm_release_1.1.0
+git push github :rm
+git push github :cm_release_1.1.0
+git tag -l
+git push --tags
+git push github :cm_release_1.1.0
+git push github :rm
+git push -f github :rm
+git push -f github :cm_release_1.1.0
+tag=cm_release_1.1.0 ; tag_comment="CoverMore CD team sprint 1 to sprint 4 tickets" ; git tag $tag -a -m "$tag_comment" ; git push github $tag
+git tag -d cm_release_1.1.0
+git tag -d rm
+git push --delete github cm_release_1.1.0
+git push --delete github rm
+tag=cm_release_1.1.0 ; tag_comment="CoverMore CD team sprint 1 to sprint 4 tickets" ; git tag $tag -a -m "$tag_comment" ; git push github $tag
+git status
+git reset --hard
+tag=cm_release_1.1.0 ; tag_comment="CoverMore CD team sprint 1 to sprint 4 tickets" ; git tag $tag -a -m "$tag_comment" ; git push origin $tag
+git push --delete origin rm
+git push --delete origin cm_release_1.1.0
+git tag -d rm
+git tag -d cm_release_1.1.0
+git tag -l
+tag=cm_release_1.1.0 ; tag_comment="CoverMore CD team sprint 1 to sprint 4 tickets" ; git tag $tag -a -m "$tag_comment" ; git push github $tag
+git push origin $tag
+drush @covermoreaus.prod -l https://www.covermore.com.au sqlq "UPDATE system SET schema_version=1 WHERE name='cm_general' AND type='module'"
+drush @covermoreaus.prod -l https://www.covermore.com.au updb
+drush @covermoreaus.prod -l https://www.covermore.com.au fra -y
+drush @covermoreaus.prod -l https://www.covermore.com.au uli
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ uli
+drush @covermoreaus.prod -l https://www.covermore.com.au vset page_cache_maximum_age 21600
+drush @covermoreaus.prod -l https://www.covermore.com.au cc all
+drush @covermoreaus.prod -l https://www.covermore.com.au pmi fast_404
+vim docroot/sites/default/settings.php 
+vim docroot/sites/all/modules/contrib/robotstxt/README.txt 
+vim docroot/sites/default/settings.php 
+git status
+ls -al
+vim sites/default/settings/default.local.settings.php 
+ls -al docroot/sites/default/default.settings.php 
+vim docroot/sites/default/default.settings.php 
+ls -al
+git status
+git add docroot/sites/default/settings.php 
+git status
+git commit -m 'COV-00: CoverMore Robots file excluded from 404 using settings.php file.'
+git push github master
+git push origin master
+drush @covermoreaus.prod -l https://www.covermore.com.au cc all
+drush @covermoreaus.prod -l https://www.covermore.com.au uli
+git fetch --all && git checkout develop && git reset --hard github/develop && git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+branch=master ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch
+git reset --hard
+git merge upstream/feature/WEB-299
+git fetch --all
+git merge upstream/feature/WEB-299
+git merge upstream/feature/WEB-27
+vim docroot/sites/all/modules/custom/estore/public/partials/_svg_icons.handlebars
+git add docroot/sites/all/modules/custom/estore/public/partials/_svg_icons.handlebars
+vim docroot/sites/all/modules/custom/estore/dev/partials/_svg_icons.handlebars
+vim docroot/sites/all/modules/custom/estore/dev/build/style.css
+vim docroot/sites/all/modules/custom/estore/public/css/style.css
+git add docroot/sites/all/modules/custom/estore/public/css/style.css
+git add docroot/sites/all/modules/custom/estore/dev/partials/_svg_icons.handlebars
+git add docroot/sites/all/modules/custom/estore/dev/build/style.css
+git status
+git merge --continue
+git push
+git push upstream feature/sprint-17_int
+git fetch --all
+git merge upstream/feature/WEB-255
+git push
+git push upstream feature/sprint-17_int
+git push origin/$branch
+branch=master ; git push origin/$branch
+git remote -v
+branch=master ; git push origin $branch
+tag=cm_release_1.1.1 ; tag_comment="CoverMore CD team work of issues from the previous release 1.1.0" ; git tag $tag -a -m "$tag_comment" ; git push github $tag ; git push origin $tag
+git diff tags/cm_release_1.1.0 tags/cm_release_1.1.1
+git diff tags/cm_release_1.1.0 tags/cm_release_1.1.1 > cm_release_1.1.1.patch
+drush @covermoreaus.prod -l https://www.covermore.com.au uli
+drush @covermoreaus.prod -l https://www.covermore.com.au cc all
+git fetch --all
+git merge upstream/feature/WEB-27
+git merge upstream/feature/WEB-28
+vim docroot/sites/all/modules/custom/wfm_blocks/store-select.js
+vim docroot/sites/all/modules/custom/estore/estore.module
+vim docroot/sites/all/modules/custom/estore/dev/css/components/_typography.scss
+cd docroot/sites/all/modules/custom/estore/
+ls -al
+grunt prod
+ls -al
+./node_modules/grunt-cli/bin/grunt prod
+./node_modules/grunt-cli/bin/grunt prod --force
+npm install
+npm install grunt-contrib-sass
+npm install grunt-contrib-sass -g
+npm install grunt-contrib-sass -g --with-dependency
+./node_modules/grunt-cli/bin/grunt prod --force
+npm install node-sass grunt-sass
+./node_modules/grunt-cli/bin/grunt prod --force
+npm auditfix
+npm audit fix
+gem install sass
+./node_modules/grunt-cli/bin/grunt prod --force
+npm install -g npm-audit-resolver
+resolve-audit
+./node_modules/grunt-cli/bin/grunt prod
+npm -v
+npm uninstall --save grunt-contrib-sass
+npm install grunt
+npm install grunt-contrib-sass
+grunt
+ls -al
+cd node_modules/
+ls -al
+cd ../
+ls -al
+npm install -g
+npm install grunt -g
+npm install -g
+npm install
+ls -al
+rm -Rf package-lock.json node_modules/
+ls -al
+npm install
+npm install node-sass
+npm install grunt-sass
+npm install grunt
+npm install grunt-sass
+npm audit fix
+npm cache clean
+npm cache clean --force
+npm cache clean --force --force
+npm cache clean --force
+npm cache clean
+grunt serve
+npm install -g grunt-cli
+grunt -v
+grunt prod
+npm install grunt-contrib-sass
+gurn prod
+grunt
+npm install -g ruby
+npm install -g sass
+npm install grunt-contrib-sass
+npm install grunt --save-dev
+vim Gruntfile.js 
+grunt prod
+git status
+git add dev/build/style.css
+git add dev/css/components/_typography.scss estore.module public/css/style.css ../wfm_blocks/store-select.js
+git status
+git diff
+git status
+git checkout ../../../../default/settings.php
+git status
+cd ../../../../
+git status
+cd ../
+git status
+vim sites/default/settings.php
+git merge --continue
+git push
+git push upstream feature/sprint-17_int
+vim sites/all/modules/custom/estore/estore.module
+git add sites/all/modules/custom/estore/estore.module
+git status
+git commit -m 'Merge conflict missing line.'
+git push
+git push upstream feature/sprint-17_int
+git fetch --all
+git reset upstream feature/sprint-17_int
+git reset --hard upstream/feature/sprint-17_int
+git push feature/sprint-17_int
+git status
+git push origin/feature/sprint-17_int
+git push origin feature/sprint-17_int
+git merge upstream/feature/WEB-31
+vim docroot/sites/all/modules/custom/estore/public/js/app.js
+cd ../
+vim docroot/sites/all/modules/custom/estore/public/js/app.js
+git merge --abort
+git status
+git diff docroot/sites/all/modules/custom/estore/audit-resolv.json
+vim docroot/sites/all/modules/custom/estore/audit-resolv.json
+rm docroot/sites/all/modules/custom/estore/audit-resolv.json
+git status
+git reset --hard upstream/feature/sprint-17_int
+git merge --no-ff upstream/feature/sprint-17_int
+git merge --no-ff upstream/feature/web-31
+vim docroot/sites/all/modules/custom/estore/dev/build/style.css
+cd docroot/sites/all/modules/custom/estore/
+grunt prod
+git status
+git add dev/build/*
+git add public/*
+git status
+cd ../../../../../
+cd ../
+git merge --continue
+git push
+git push upstream feature/sprint-17_int
+git fetch --all
+git merge upstream/feature/WEB-197
+cd docroot/sites/all/modules/custom/estore/
+vim estore.module 
+git add estore.module
+grunt prod
+git status
+git add dev/build/style.css
+git add public/css/style.css 
+git status
+git merge --continue
+git push
+git push upstream feature/sprint-17_int
+git fetch --all
+git merge upstream/feature/WEB-199
+vim docroot/sites/all/modules/custom/wfm_blocks/store-select.js
+cd ../../../../../../
+vim docroot/sites/all/modules/custom/wfm_blocks/store-select.js
+vim docroot/sites/all/modules/custom/estore/public/partials/findorder.handlebars
+vim docroot/sites/all/modules/custom/estore/estore.module
+vim docroot/sites/all/modules/custom/estore/dev/partials/findorder.handlebars
+git add docroot/sites/all/modules/custom/wfm_blocks/store-select.js docroot/sites/all/modules/custom/estore/public/partials/findorder.handlebars docroot/sites/all/modules/custom/estore/estore.module docroot/sites/all/modules/custom/estore/dev/partials/findorder.handlebars
+git merge --continue'
+git merge --continue
+git push
+git push upstream feature/sprint-17_int
+git fetch --all
+git branch -a
+git branch
+git fetch --all
+git checkout AcquiaRA-2018-07-20-09-42-09
+git reset --hard
+git checkout AcquiaRA-2018-07-20-09-42-09
+vim README.acquia 
+ls -al
+rm -Rf README.acquia 
+ls -al
+git checkout AcquiaRA-2018-07-20-09-42-09
+git push github AcquiaRA-2018-07-20-09-42-09
+git checkout -b AcquiaRA-2018-08-24-09-46-29 github_old/AcquiaRA-2018-08-24-09-46-29
+git checkout -b AcquiaRA-2018-08-24-09-46-29 origin_old/AcquiaRA-2018-08-24-09-46-29
+git reset --hard origin_old/AcquiaRA-2018-08-24-09-46-29
+git push github AcquiaRA-2018-08-24-09-46-29
+git checkout -b AcquiaRA-2018-08-13-23-49-11 origin_old/AcquiaRA-2018-08-13-23-49-11
+git reset --hard origin_old/AcquiaRA-2018-08-13-23-49-11
+git push github AcquiaRA-2018-08-13-23-49-11
+git branch
+git checkout -b AcquiaRA-2018-08-17-13-01-49 origin_old/AcquiaRA-2018-08-17-13-01-49
+git reset --hard origin_old/AcquiaRA-2018-08-17-13-01-49
+git push github AcquiaRA-2018-08-17-13-01-49
+git checkout AcquiaRA-2018-07-28-10-05-59 origin_old/AcquiaRA-2018-07-28-10-05-59
+git checkout AcquiaRA-2018-07-20-09-42-09 origin_old/AcquiaRA-2018-07-20-09-42-09
+git remote -v
+git status
+rm cm_release_1.1.1.patch 
+git status
+git checkout master
+git remote -v
+git branch -a origin
+git branch -a
+git fetch --all
+git merge upstream/feature/WEB-199
+vim docroot/sites/all/modules/custom/estore/public/partials/findorder.handlebars
+vim docroot/sites/all/modules/custom/estore/estore.module
+vim docroot/sites/all/modules/custom/estore/dev/partials/findorder.handlebars
+git add docroot/sites/all/modules/custom/estore/public/partials/findorder.handlebars docroot/sites/all/modules/custom/estore/estore.module docroot/sites/all/modules/custom/estore/dev/partials/findorder.handlebars
+git merge --continue
+git push
+git status
+git branch
+git log
+git reset --hard upstream/feature/WEB-31
+git reset --hard upstream/feature/sprint-17_int
+git merge upstream/feature/WEB-199
+vim docroot/sites/all/modules/custom/estore/public/partials/findorder.handlebars
+vim docroot/sites/all/modules/custom/estore/dev/partials/findorder.handlebars
+vim docroot/sites/all/modules/custom/estore/estore.module
+git add docroot/sites/all/modules/custom/estore/estore.module docroot/sites/all/modules/custom/estore/dev/partials/findorder.handlebars docroot/sites/all/modules/custom/estore/public/partials/findorder.handlebars
+git merge --continue
+git push
+git status
+git push origin +feature/sprint-17_int
+git push upstream feature/sprint-17_int
+git fetch --all
+git merge upstream/feature/WEB-29
+git merge --abort
+git merge upstream/feature/WEB-28
+vim docroot/sites/all/modules/custom/estore/public/partials/revieworder.handlebars
+vim docroot/sites/all/modules/custom/estore/dev/partials/revieworder.handlebars
+git merge --abort
+git fetch --all
+git merge upstream/feature/WEB-29
+vim docroot/sites/all/modules/custom/estore/estore.module
+cd docroot/sites/all/modules/custom/estore
+gurn prod
+gurnt prod
+ls -al
+grunt
+grunt prod
+git status
+git add estore.module dev/build/style.css public/css/style.css
+git merge --continue
+git merge upstream/feature/WEB-28
+git push
+git push upstream feature/sprint-17_int
+git fetch --all
+git branch -a | grep WEB-27
+git checkout -b feature/WEB-27 upstream/feature/WEB-27
+git reset --hard upstream/feature/WEB-27
+git log
+git status
+git log
+git log | grep #543
+git log | grep '#543'
+git log | grep '#5437'
+git log
+git reset --hard bc289f1187d4e4297fbc4018225a5ecca523a371
+git log
+git push
+git push upstream +feature/WEB-27
+git cherry-pick bba01d3
+git status
+git diff
+!
+git status
+git cherry-pick --abort
+git status
+git log
+git merge upstream/WEB-238
+git merge upstream/feature/WEB-238
+vim docroot/sites/all/modules/custom/estore/public/partials/_svg_icons.handlebars
+cd ~/projects/wfmcom/
+git status
+vim docroot/sites/all/modules/custom/estore/public/partials/_svg_icons.handlebars
+vim docroot/sites/all/modules/custom/estore/dev/partials/_svg_icons.handlebars
+cd docroot/sites/all/modules/custom/estore
+grunt prod
+git status
+git add dev/build/style.css dev/partials/_svg_icons.handlebars public/css/style.css public/partials/_svg_icons.handlebars
+git merge --continue
+git merge upstream/feature/WEB-325
+grunt prod
+git status
+git add dev/build/style.css public/css/style.css
+git merge --continue
+git cherry-pick bba01d3
+git status
+vim estore.module
+grunt prod
+git status
+git add estore.module dev/build/style.css public/css/style.css
+git status
+git cherry-pick --continue
+git push
+git checkout feature/sprint-17_int
+git fetch upstream
+git reset --hard upstream/feature/sprint-17_int
+vim estore.module 
+git commit -m 'WEB-197: Removed unnecessary drupal_goto().'
+git add estore.module
+git commit -m 'WEB-197: Removed unnecessary drupal_goto().'
+git push
+git push upstream feature/sprint-17_int
+git fetch --all
+git reset --hard upstream/feature/sprint-17_int
+git reset --hard upstream/feature/WEB-27
+git push
+git reset --hard upstream/feature/sprint-17_int
+git push
+git push origin +feature/sprint-17_int
+git merge upstream/feature/WEB-27
+vim docroot/sites/all/modules/custom/estore/public/partials/_svg_icons.handlebars
+vim public/partials/_svg_icons.handlebar
+vim public/partials/_svg_icons.handlebars 
+vim public/partials/_header_nostore.handlebars
+vim public/partials/_svg_icons.handlebars
+vim public/partials/_header_nostore.handlebars
+vim estore.module
+vim dev/partials/_svg_icons.handlebars
+vim dev/partials/_header_nostore.handlebars
+vim dev/css/components/_header.scss
+grunt prod
+git status
+vim dev/partials/_svg_icons.handlebars
+git add *
+git status
+git merge --continue
+git push
+git fetch --all
+git merge upstream/feature/WEB-199
+vim estore.module
+grunt prod
+git status
+git add estore.module dev/build/style.css public/css/style.css
+git status
+git merge --continue
+git push
+git fetch --all
+git reset --hard upstream/feature/sprint-17_int
+git status
+git reset --hard
+git remote -v
+git reset --hard origin/feature/sprint-17_int
+git push upstream feature/sprint-17_int
+git checkout -b feature/sprint-18_int
+git push
+git push --set-upstream origin feature/sprint-18_int
+git push upstream feature/sprint-18_int
+git fetch --all
+git merge upstream/feature/WEB-199
+git push
+git push upstream feature/sprint-18_int
+git fetch --all
+git merge upstream/feature/WEB-197
+cd docroot/sites/all/modules/custom/estore
+grunt prod
+git status
+git add dev/build/app.js dev/build/style.css public/css/style.css public/js/app.js
+git status
+git merge --continue
+git push
+git push upstream feature/sprint-18_int
+cd projects/wfmcom
+git fetch --all
+git merge upstream/feature/WEB-347
+cd docroot/sites/all/modules/custom/estore/
+grunt prod
+git add docroot/sites/all/modules/custom/estore/public/css/style.css docroot/sites/all/modules/custom/estore/dev/build/style.css
+git status
+git add *
+git status
+git merge --continue
+rm ../../../../../../acquia-pipelines-WFM.yml
+git status
+git merge upstream/feature/WEB-349
+grun prod
+grunt prod
+git status
+git add *
+git status
+git merge --continue
+git merge upstream/feature/WEB-350
+grunt prod
+git status
+git add *
+git merge --continue
+git push
+git push upstream feature/sprint-18_int
+git pull
+git reset --hard upstream feature/sprint-18_int
+git reset --hard upstream/feature/sprint-18_int
+git push
+git push origin +feature/sprint-18_int
+git merge upstream/feature/WEB-347
+grunt prod
+git add docroot/sites/all/modules/custom/estore/public/css/style.css docroot/sites/all/modules/custom/estore/dev/build/style.css
+git add *
+git merge --continue
+git merge upstream/feature/WEB-349
+git add *
+git merge --continue
+git merge upstream/feature/WEB-349
+git merge upstream/feature/WEB-350
+grunt prod
+git add *
+git merge --continue
+git push
+git push upstream feature/sprint-18_int
+git fetch --all
+git merge upstream/feature/WEB-30
+grunt prod
+git status
+git add *
+git status
+git merge --continue
+git push
+git push upstream feature/sprint-18_int
+git fetch --all
+git checkout AcquiaRA-2018-08-30-16-23-29
+git push github AcquiaRA-2018-08-30-16-23-29
+git checkout master
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch
+git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch
+git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+git fetch --all
+git merge upstream/feature/WEB-352
+vimpublic/partials/findorder.handlebars 
+vim public/partials/findorder.handlebars 
+git add public/partials/findorder.handlebars
+vim public/js/app.js
+vim dev/partials/findorder.handlebars
+git add dev/partials/findorder.handlebars
+vim dev/partials/findorder.handlebars
+vim dev/css/components/_find_order.scss
+git add dev/css/components/_find_order.scss
+grunt prod
+git status
+git add 8
+git add *
+git status
+git merge --continue
+git push
+git push upstream feature/sprint-18_int
+git fetch --all
+git merge upstream/feature/WEB-30
+grunt prod
+git status
+git add 8
+git add *
+git status
+git merge --continue
+git merge upstream/feature/WEB-31
+grunt prod
+git status
+git add *
+git status
+git merge --continue
+git push
+git push upstream feature/sprint-18_int
+git fetch --all
+git merge upstream/feature/WEB-350
+vim dev/partials/findorder.handlebars
+vim dev/css/components/_find_order.scss
+grunt prod
+git status
+git add *
+git status
+git merge --continue
+git merge upstream/feature/WEB-347
+git push
+git push upstream feature/sprint-18_int
+git fetch --all
+git reset --hard upstream/feature/sprint-18_int
+git push
+git merge upstream/feature/WEB-351
+vim dev/partials/revieworder.handlebars
+grunt prod
+git status
+vim public/partials/revieworder.handlebars
+git add *
+git status
+git merge --continue
+git merge upstream/feature/WEB-30
+vim estore.module
+grunt prod
+ls -al
+git status
+vim public/js/app.js
+git add *
+git status
+git merge --continue
+git push
+git push upstream feature/sprint-18_int
+git log
+git fetch --all
+git branch -a | grep cancel
+git checkout feature/cancelorder
+git reset --hard upstream/feature/cancelorder
+git log
+git checkout feature/sprint-18_int
+git fetch --all
+git merge upstream/feature/WEB-347
+vim dev/partials/findorder.handlebars
+grunt prod
+git push
+git status
+git add *
+git merge --continue
+git push
+git push upstream feature/sprint-18_int
+git checkout feature/cancelorder
+git log
+git checkout develop
+git fetch --all
+git reset --hard upstream/develop
+git push origin develop
+git checkout -b feature/cancel-order
+git checkout feature/cancelorder
+git log
+git merge upstream/feature/WEB-343
+git merge upstream/feature/WEB-27
+vim estore.module
+git merge --abort
+git status
+git log
+git log
+git status
+git merge upstream/feature/WEB-30
+vim estore.module
+vim dev/partials/revieworder.handlebars
+vim dev/partials/findorder.handlebars
+vim dev/partials/_header_nostore.handlebars
+vim dev/css/style.scss
+vim dev/css/components/_variables.scss
+vim dev/css/components/_typography.scss
+vim dev/css/components/_review_order.scss
+vim dev/css/components/_header.scss
+vim dev/css/components/_find_order.scss
+grunt prod
+git merge --continue
+git add *
+git status
+git merge --continue
+git merge upstream/feature/WEB-31
+vim dev/build/style.css
+grunt prod
+git add 8
+git add *
+git status
+git merge --continue
+git merge upstream/feature/WEB-347
+vim estore.module
+vim dev/partials/findorder.handlebars
+grunt prod
+git status
+git add 8
+git add *
+git status
+git merge --continue
+git merge upstream/feature/WEB-349
+grunt prod
+git status
+git add *
+git status
+git merge --continue
+git merge upstream/feature/WEB-350
+grunt prod
+git status
+git add *
+git merge --continue
+git merge upstream/feature/WEB-199
+git status
+git push origin feature/cancelorder
+git fetch --all
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+composer global require "squizlabs/php_codesniffer=*"
+composer global require "phpcompatibility/php-compatibility=*"
+php -v
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+ls -al
+vim package.json 
+ls -al
+vim package-lock.json
+git checkout feature/sprint-18_int
+git fetch --all
+git reset --hard upstream/feature/sprint-18_int
+git push
+git merge upstream/feature/WEB-392
+git merge upstream/feature/WEB-393
+vim docroot/sites/all/modules/custom/estore/dev/partials/revieworder.handlebars
+vim dev/partials/revieworder.handlebars
+vim 
+vim partials/revieworder.handlebars
+vim public/partials/revieworder.handlebars
+git add *
+git merge --continue
+git merge upstream/feature/WEB-380
+git merge upstream/feature/WEB-384
+vim public/partials/revieworder.handlebars
+vim estore.module
+vim dev/partials/revieworder.handlebars
+git add *
+git status
+git merge --continue
+git push
+git push upstream feature/sprint-18_int
+git merge upstream/feature/WEB-392
+vim dev/partials/revieworder.handlebars
+git log
+git reset 0ab0b4c720f41341af2d40c590649e389b56dccc
+git log
+vim dev/partials/revieworder.handlebars
+git reset --hard
+git reset --hard upstream/feature/sprint-18_int
+git log
+git reset --hard cb759cfec5e8d2db9de0180cfb9a61adc1aaee90
+git log
+git merge upstream/feature/WEB-392
+git log
+vim dev/partials/revieworder.handlebars 
+git merge upstream/feature/WEB-393
+vim dev/partials/revieworder.handlebars
+<div>{{shipping.FULFILLMENTMETHOD}}: {{shipping.FULFILLMENTDATE}} at {{shipping.FULFILLMENTTIME}}</div>
+vim dev/partials/revieworder.handlebars
+git reset --hard upstream/feature/sprint-18_int
+vim dev/partials/revieworder.handlebars
+vim public/partials/revieworder.handlebars 
+git status
+git add *
+git commit -m 'WEB-392: changes were overriden by other PR merge so adding the changes back.'
+git push
+git push upstream feature/sprint-18_int
+drush sa
+drush acquia-update
+drush sa
+drush @brandrefresh.prod -l www.novartisbrandlab.com uli
+history | grep 'rahul.sharma'
+drush @brandrefresh.prod -l www.novartisbrandlab.com user-create amit --email=amit.vyas@acquia.com
+drush @brandrefresh.prod -l www.novartisbrandlab.com user-create amit --mail=amit.vyas@acquia.com --password=sys
+drush @brandrefresh.prod -l www.novartisbrandlab.com user-add-role administrator 357331
+drush @brandrefresh.prod -l www.novartisbrandlab.com user-add-role admin 357331
+drush @brandrefresh.prod -l www.novartisbrandlab.com user-add-role site_admin 357331
+drush @brandrefresh.prod -l www.novartisbrandlab.com role_list
+drush help | role
+drush
+drush @brandrefresh.prod -l www.novartisbrandlab.com rls
+drush @brandrefresh.prod -l www.novartisbrandlab.com user-add-role 'Super admin' 357331
+drush @brandrefresh.prod -l www.novartisbrandlab.com user-add-role 'Super Admin' 357331
+drush @brandrefresh.prod -l www.novartisbrandlab.com uublk 357331
+drush @brandrefresh.prod -l www.novartisbrandlab.com uli 357331
+drush @covermoreaus.prod -l https://www.covermore.com.au/ uli
+git fetch --all
+git merge upstream/feature/WEB-377
+git push 
+git fetch --all
+git merge upstream/feature/WEB-404
+git push
+git push upstream feature/sprint-18_int
+git fetch --all
+git merge upstream/feature/WEB-358
+git push
+git push upstream feature/sprint-18_int
+git fetch --all
+git merge upstream/feature/WEB-358
+git merge upstream/feature/WEB-403
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-401
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-402
+vim dev/css/components/_header.scss
+grunt prod
+git add *
+git merge --continue
+git push
+git push upstream feature/sprint-18_int
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+git fetch --all
+git reset --hard upstream/feature/sprint-18_int
+git push
+git merge upstream/feature/WEB-401
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-353
+grunt prod
+git add *
+git status
+git diff
+git status
+git merge --continue
+vim dev/css/components/_header.scss
+vim dev/js/app.js
+git status
+git push
+git push upstream feature/sprint-18_int
+git log
+git fetch --all
+git merge upstream/feature/WEB-339
+git push
+git log
+git push upstream feature/sprint-18_int
+git fetch --all
+git merge upstream/feature/WEB-403
+grunt prod
+git diff
+git status
+git add *
+git merge --continue
+git push
+git push upstream feature/sprint-18_int
+git merge upstream/feature/WEB-413
+git fetch --all
+git merge upstream/feature/WEB-413
+git merge upstream/feature/WEB-414
+git push
+git push upstream feature/sprint-18_int
+git checkout develop
+git fetch --all
+git reset --hard upstream/develop
+git status
+git push
+git checkout -b feature/WEB-413+WEB-414
+git merge upstream/feature/WEB-413
+vim estore.module
+vim dev/partials/revieworder.handlebars
+grun prod
+grunt prod
+git diff
+vim estore.module 
+git checkout develop
+git reset --hard
+git checkout develop
+vim estore.module 
+git reset --hard upstream/develop
+git log
+git branch -D feature/WEB-413
+git branch -D feature/WEB-414
+git push upstream --delete feature/WEB-413
+git push upstream --delete feature/WEB-414
+git status
+git checkout feature/sprint-18_int
+git status
+git log
+git reset --hard 4133718588a7bd4ab70820d38b9b807e968eca87
+git log
+git push
+git push origin +feature/sprint-18_int
+git push upstream +feature/sprint-18_int
+git merge upstream/feature/WEB-413
+git fetch --all
+git merge upstream/feature/WEB-413
+vim estore.module
+vim dev/partials/revieworder.handlebars
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-414
+git push
+git push upstream feature/sprint-18_int
+git checkout develop
+git reset --hard upstream/develop
+git fetch --all
+git checkout -b 'feature/WEB-413-and-WEB-414-integration'
+git merge upstream/feature/WEB-413
+git merge upstream/feature/WEB-414
+git push
+git push --set-upstream origin feature/WEB-413-and-WEB-414-integration
+git checkout feature/sprint-18_int
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com estore pmi
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com pmi estore
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com sqlq "select * from 'estore_activities'"
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com sqlq 'describe estore_activities'
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com sqlq 'select * from estore_activities'
+drush @wfmcom.dev6 -l d6.wholefoodsmarket.com sqlq 'select count(*) from estore_activities'
+git fetch --all
+git checkout -b feature/WEB-412_int upstream/feature/WEB-412_int
+git push origin feature/WEB-412_int
+git checkout -b feature/WEB-412-ind_int
+git merge upstream/feature/WEB-401
+vim estore.module
+vim dev/partials/revieworder.handlebars
+grunt prod
+git diff
+git status
+git add *
+git status
+git merge --continue
+git merge upstream/feature/WEB-402
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-403
+vim dev/css/components/_header.scss
+vim dev/build/app.js
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-404
+grunt prod
+git add *
+git merge --continue
+git push
+git push --set-upstream origin feature/WEB-412-ind_int
+git checkout feature/sprint-18_int
+git merge upstream/feature/WEB-403
+git fetch upstream
+git merge upstream/feature/WEB-403
+vim css/components/_header.scss
+vim dev/css/components/_header.scss
+grunt prod
+git add *
+git status
+git merge --continue
+git push
+git branch
+git checkout feature/WEB-412-ind_int
+git log
+git reset --hard 8b5895ec45189bd2f78cbc1f77287b4f0137b3e2
+git push
+git status
+git push origin +feature/WEB-412-ind_int
+git log
+git cherry-pick e5bfa494b362 -m 1
+git cherry-pick e5bfa494b362
+git cherry-pick 18f8222f6c99
+git cherry-pick 18f8222f6c99 -m 1
+git push
+git merge upstream/feature/WEB-402
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-403
+vim dev/css/components/_header.scss
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-404
+grunt prod
+git add *
+git merge --continue
+git push
+git checkout feature/sprint-18_int
+git push upstream feature/sprint-18_int
+git log
+vim dev/css/components/_header.scss 
+git reset --hard upstream/sprint-18_int
+git fetch --all
+git reset --hard upstream/feature/sprint-18_int
+git checkout develop
+git reset --hard upstream/develop
+git push
+git checkout -b feature/sprint-19_int
+git merge upstream/feature/sprint-18_int
+git push
+git push --set-upstream origin feature/sprint-19_int
+git merge upstream/feature/WEB-391
+grunt prod
+git status
+git add *
+git merge --continue
+git push
+git push upstream feature/sprint-19_int
+composer global require drupal/coder
+composer global show -P
+export PATH="$PATH:$HOME/.composer/vendor/bin"
+composer global require dealerdirect/phpcodesniffer-composer-installer
+phpcs -i
+ln -s ~/.composer/vendor/drupal/coder/coder_sniffer/Drupal ~/.composer/vendor/squizlabs/php_codesniffer/CodeSniffer/Standards/Drupal
+ln -s ~/.composer/vendor/drupal/coder/coder_sniffer/Drupal ~/.composer/vendor/squizlabs/php_codesniffer/src/Standards/Drupal
+ln -s ~/.composer/vendor/drupal/coder/coder_sniffer/DrupalPractice ~/.composer/vendor/squizlabs/php_codesniffer/src/Standards/DrupalPractice
+phpcs -i
+phpcs --standard=Drupal --extentions=php,module,inc,install,test,profile,theme,css,info,txt,md .
+phpcs --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md .
+phpcs --standard=PHPCompatibility --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md .
+phpcs --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md .
+phpcs --v
+phpcs --version
+phpcs --config-get installed_paths
+phpcs --config-get
+phpcs
+phpcs -i
+phpcs
+phpcs .
+phpcs --config-set installed_paths ~/.config/composer/vendor/drupal/coder/coder_sniffer
+phpcs --config-set installed_paths '/Users/amit.vyas/.config/composer/vendor/drupal/coder/coder_sniffer /Users/amit.vyas/.composer/vendor/phpcompatibility/php-compatibility'
+phpcs --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md .
+git fetch --all
+git status
+git reset --hard upstream/feature/sprint-19_int
+git push
+git merge upstream/feature/WEB-364
+grunt prod
+git add *
+git merge --continue
+git push
+git push upstream feature/sprint-19_int
+git fetch --all
+git merge upstream/feature/WEB-490
+git merge upstream/feature/WEB-389
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-125
+git merge upstream/feature/WEB-365
+git log
+git reset --hard 8d755c9517618bca8230c55d1c2a585286f81dd3
+git cherry-pick ba5dacfe3a035f80c3e012e75327149c1c3c00dd
+git status
+grunt prod
+git status
+git add *
+git status
+git cherry-pick --continue
+git merge upstream/feature/WEB-229
+git push
+git push upstream feature/sprint-19_int
+git log
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+git fetch --all
+git merge upstream/feature/WEB-383
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-400
+git fetch --all
+git merge upstream/feature/WEB-407
+vim estore.module
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-409
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-396
+grunt prod
+git add *
+git merge --continue
+git push
+git merge upstream/feature/WEB-406
+grunt prod
+git add *
+git merge --continue
+git push
+git push upstream feature/sprint-19_int
+git checkout develop
+git reset --hard upstream/develop
+git push
+git reset --hard 8b3d4dcc8bad4b2f36da80b8bb626342497c337d
+git push origin +develop
+git reset --hard upstream/develop
+git log
+git reset --hard 8b3d4dcc8bad4b2f36da80b8bb626342497c337d
+git push origin +develop
+git push upstream +develop
+git checkout feature/sprint-19_int
+git reset --hard upstream feature/sprint-19_int
+git reset --hard upstream/feature/sprint-19_int
+git push origin
+git merge upstream/feature/WEB-400
+git fetch --all
+git merge upstream/feature/WEB-400
+git push upstream feature/sprint-19_int
+git push
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+git fetch --all
+git merge upstream/feature/WEB-376
+git merge upstream/feature/WEB-377
+vim dev/partials/findorder.handlebars
+vim dev/css/components/_find_order.scss
+grunt prod
+git status
+git add *
+git merge --continue
+git merge upstream/feature/WEB-408
+grunt prod
+git merge upstream/feature/WEB-304
+git add *
+git merge --continue
+git merge upstream/feature/WEB-304
+git push
+git push upstream feature/sprint-19_int
+git fetch --all
+git checkout release-1.2.0
+git reset --hard github/release-1.2.0
+git push origin release-1.2.0
+drush sa
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ fra -y
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ updb -y
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ cc all
+cd projects/
+ls -al
+rm -Rf tate*
+drush @wfmcom.dev5 -l d5.wholefoodsmarket.com cc all
+git fetch --all
+git merge upstream/feature/WEB-262
+git merge upstream/feature/WEB-396
+grunt prod
+git add *
+git merge --continue
+git push
+git push upstream feature/sprint-19_int
+git fetch --all
+git merge upstream/feature/WEB-344
+grunt prod
+git add *
+git merge --continue
+git push
+git push upstream feature/sprint-19_int
+git remote -v
+vim public/css/style.css
+ls -al
+history | grep npm
+git diff
+grunt -v
+grunt --version
+npm --version
+npm i -g npm
+npm install -g npm
+grunt --version
+git fetch --all
+ls -al ~/.ssh
+ls -al ~
+ls -al ~/.ssh
+eval `ssh-agent -s`
+git fetch --all
+git merge upstream/feature/WEB-383
+grunt prod
+git add *
+git status
+git merge --continue
+git push
+git push upstream feature/sprint-19_int
+git fetch --all
+git merge upstream/feature/WEB-396
+git push
+git push upstream feature/sprint-19_int
+git fetch --all
+git checkout feature/WEB-375_int
+git reset --hard upstream/feature/WEB-375_int
+git merge upstream/feature/WEB-353
+grunt prod
+git status
+git add *
+git status
+git merge --continue
+git merge upstream/feature/WEB-362
+vim estore.module
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-364
+grunt prod
+git status
+git add *
+git merge --continue
+git merge upstream/feature/WEB-391
+grunt prod
+git status
+git add *
+git merge --continue
+git merge upstream/feature/WEB-389
+grunt prod
+git status
+git add *
+git merge --continue
+git merge upstream/feature/WEB-407
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-408
+grun prod
+grunt prod
+git add *
+git merge --continue
+git merge upstream/feature/WEB-409
+grunt prod
+git add *
+git merge --continue
+git status
+git push
+git log
+drush @covermoreaus.prod -l https://www.covermore.com.au vset page_cache_maximum_age 84600
+git remote -v
+branch=master ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin $branch
+tag=cm_release_1.2.0 ; tag_comment="CoverMore CD team sprints & issues fixed in the sprints." ; git tag $tag -a -m "$tag_comment" ; git push github $tag ; git push origin $tag
+drush @covermoreaus.prod -l https://www.covermore.com.au vset page_cache_maximum_age 21600
+drush @covermoreaus.prod -l https://www.covermore.com.au cc all
+export PHP_ID=php5_5; export PATH="/Applications/DevDesktop/$PHP_ID/bin:/Applications/DevDesktop/mysql/bin:/Applications/DevDesktop/tools:$PATH" && cd "/Users/amit.vyas/projects/nuofr-prod/docroot"
+drush cc all
+git status
+drush cc all
+drush @self cc all
+export PHP_ID=php5_5; export PATH="/Applications/DevDesktop/$PHP_ID/bin:/Applications/DevDesktop/mysql/bin:/Applications/DevDesktop/tools:$PATH" && cd "/Users/amit.vyas/projects/nuofr-prod/docroot"
+drush status
+drush cc all
+drush -l facilities.dd status
+drush -l facilities.dd cc all
+export PHP_ID=php5_5; export PATH="/Applications/DevDesktop/$PHP_ID/bin:/Applications/DevDesktop/mysql/bin:/Applications/DevDesktop/tools:$PATH" && cd "/Users/amit.vyas/projects/nuofr-prod/docroot"
+drush cc all
+drush -l facilities.dd cc all
+vim simplesaml/saml2/idp/metadata.php 
+drush -l facilities.dd dis simplesamlphp
+vim simplesaml/_include.php 
+vim simplesaml/lib/SimpleSAML/Logger/LoggingHandlerFile.php
+ls -al
+cd ../
+ls -al
+cd simplesaml/
+ls -al
+vim config/config.php 
+drush -l facilities.dd cc all
+cd ../docroot/
+drush -l facilities.dd cc all
+cd ../
+cd simplesaml/
+grep -irn "mnt" .
+vim config/config-acquia.php 
+cd ../docroot/
+drush -l facilities.dd cc all
+sudo chmod -Rf 777 /tmp
+drush -l facilities.dd cc all
+ls -al /
+sudo chmod -Rf 777 tmp
+sudo chmod -Rf 777 /tmp
+ls -al /
+vim ../simplesaml/config/config-acquia.php 
+cd ../docroot/
+drush -l facilities.dd cc all
+cd ~
+ls -al
+mkdir tmp
+ls -al
+chmod -Rf 777 tmp
+ls -al
+cd tmp/
+ls -al
+mkdir simplesaml
+ls -al
+chmod -Rf 777 simplesaml/
+ls a-l
+ls al
+ls -al
+drush -l facilities.dd uli
+ls -al sites/facilities/
+export PHP_ID=php5_5; export PATH="/Applications/DevDesktop/$PHP_ID/bin:/Applications/DevDesktop/mysql/bin:/Applications/DevDesktop/tools:$PATH" && cd "/Users/amit.vyas/projects/nuofr-prod/docroot"
+git status
+git branch -a
+git checkout -b php7_upgrade
+git status
+git push
+git push --set-upstream origin php7_upgrade
+drush sa
+drush acquia-update
+drush @nuofr.prod -l nuofr.prod.acquia-sites.com status
+export PHP_ID=php5_5; export PATH="/Applications/DevDesktop/$PHP_ID/bin:/Applications/DevDesktop/mysql/bin:/Applications/DevDesktop/tools:$PATH" && cd "/Users/amit.vyas/projects/nuofr-prod/docroot"
+diff -srq dir1/ dir2/ | grep identical
+diff -srq sites/all/modules/ sites/ccm/modules/ | grep identical
+diff -srq sites/all/modules/ sites/facilities/modules/ | grep identical
+diff -srq sites/all/modules/acquia_connector/ sites/ | grep identical
+diff -srq sites/all/modules/cck/ sites/ | grep identical
+diff -srq sites/all/modules/views/ sites/ | grep identical
+diff -srq sites/all/modules/views_bulk_operations sites/ | grep identical
+diff -srq sites/all/modules/views_bulk_operations/ sites/*/modules | grep identical
+diff -srq sites/all/modules/views_bulk_operations/ sites | grep identical
+diff -sr sites/all/modules/views_bulk_operations/ sites | grep identical
+diff -sr sites/all/modules/views_bulk_operations/ sites/ccm/modules/ | grep identical
+diff -sr sites/all/modules/views_bulk_operations/ sites/ccm/modules/
+diff -srq sites/all/modules/ sites/ccm/modules/
+ls -lR Top_Dir/ | grep -E $(ls -lR Top_Dir/ | grep ^d | rev | cut -d" " -f1 | rev | sort | uniq -d | head -c -1 | tr '\n' '|') | grep -v ^d | sed 's/://'
+ls -lR sites/all/modules/ | grep -E $(ls -lR sites/all/modules/ | grep ^d | rev | cut -d" " -f1 | rev | sort | uniq -d | head -c -1 | tr '\n' '|') | grep -v ^d | sed 's/://'
+ls -lR sites/all/modules/ | grep -E $(ls -lR sites/all/modules/ | grep ^d | rev | cut -d" " -f1 | rev | sort | uniq -d | tr '\n' '|') | grep -v ^d | sed 's/://'
+find . -size 20 \! -type d -exec cksum {} \; | sort | tee /tmp/f.tmp | cut -f 1,2 -d ‘ ‘ | uniq -d | grep -hif – /tmp/f.tmp > duplicates.txt 
+find sites/ -size 20 \! -type d -exec cksum {} \; | sort | tee /tmp/f.tmp | cut -f 1,2 -d ‘ ‘ | uniq -d | grep -hif – /tmp/f.tmp > duplicates.txt 
+ls -al
+vim duplicates.txt 
+rm duplicates.txt 
+ls -al
+cd sites/
+ls -al
+drush sa
+drush @covermoreusa.dev pmi securepages
+cd ~/.ssh ls -l
+ls -al
+mkdir key_backup mv id_rsa* key_backup
+mkdir key_backup
+ls -al
+cd key_backup/
+ls -al
+mv ../id_rsa* .
+ls -al
+cd ../
+ls -al
+cd mv
+ls -al
+cd ../
+rm -Rf mv
+ls -al
+ssh-keygen -b 4096
+ls -al
+pbcopy < ~/.ssh/id_rsa.pub
+cd ../projects/usafccovermore-prod/
+ls -al
+drush @covermoreusa.dev pmi securepages
+drush sa
+drush @covermoreusa.dev -l http://usafccovermoreexhf2nkvvm.devcloud.acquia-sites.com/ status
+drush acquia-update
+cd
+ls -al
+cd .drush/
+ls -al
+vim usafccovermore.aliases.drushrc.php 
+drush @usafccovermore.dev status
+cd ~/.ssh/
+ls -al
+mkdir key_backup1
+mv id_rsa* key_backup/
+ls -al
+mv key_backup/id_rsa* .
+ls -al
+rm -Rf key_backup
+mv key_backup1 key_backup
+ls -al
+cd
+drush @usafccovermore.dev pmi securepages
+drush @usafccovermore.dev pmi shield
+drush @usafccovermore.dev vget shield
+drush @usafccovermore.dev status
+cd projects/usafccovermore-prod/
+git fetch --all
+git branch -a
+git tag -l
+git checkout 2018-08-02.1
+git checkout -b php7_upgrade_deployment_branch tags/2018-08-02.1
+git checkout master
+git reset --hard
+git checkout master
+git branch -D php7_upgrade_deployment_branch
+git reset --hard
+git checkout -b php7_upgrade_release 2018-08-02.1
+git status
+git log
+git branch -a
+git merge origin/php7_upgrade
+git status
+git log
+git push
+git push --set-upstream origin php7_upgrade_release
+tag=2018-09-28 ; tag_comment="CoverMore Acquia CD team fixed the issues related to PHP7 compatibility." ; git tag $tag -a -m "$tag_comment" ; git push origin $tag
+drush @usafccovermore.prod status
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ cc all
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ cc
+export PHP_ID=php5_5; export PATH="/Applications/DevDesktop/$PHP_ID/bin:/Applications/DevDesktop/mysql/bin:/Applications/DevDesktop/tools:$PATH" && cd "/Users/amit.vyas/projects/nuofr-prod/docroot"
+/Applications/DevDesktop/mysql/bin/mysqld --defaults-file=/Applications/DevDesktop/mysql/my.cnf
+tail -50 /Applications/DevDesktop/mysql/data/mysql.err
+export PHP_ID=php5_5; export PATH="/Applications/DevDesktop/$PHP_ID/bin:/Applications/DevDesktop/mysql/bin:/Applications/DevDesktop/tools:$PATH" && cd "/Users/amit.vyas/projects/nuofr-prod/docroot"
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin $branch ;
+git remote -v
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin develop
+pbcopy < ~/.ssh/id_rsa.pub
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+cd ../nuofr-prod/
+git fetch --all
+git git push <remote_name> --delete <branch_name>
+git push <remote_name> --delete <branch_name>
+git push origin --delete php7_upgrade
+git push origin --delete php7_upgrade_nw_facilities_custom
+git push origin --delete php7_upgrade_contrib
+git push origin --delete php7_upgarade_nw_facilities
+git branch -a
+drush sa
+git checkout -b production remotes/origin/production
+git checkout -b php7_upgrade
+git push
+git remote -v
+git branch -a
+git fetch --all
+git push origin --delete php7_upgrade_nw_ccm_contrib
+git push origin --delete php7_upgrade_nw_ccm_libraries_patches
+git brach -a
+git branch -a
+git fetch --all
+git merge origin/php7_upgrade_nw_ccm
+git log
+git branch -a
+git merge origin/php7_upgrade_nw_facilities
+git log
+git push
+drush @nuofr.prod -l dev.ccm.northwestern.edu  updb
+drush @nuofr.dev -l dev.ccm.northwestern.edu  updb
+drush @nuofr.dev -l dev.ccm.northwestern.edu cc all
+drush @nuofr.dev -l http://dev.facilities.northwestern.edu/ updb
+drush @nuofr.dev -l http://dev.facilities.northwestern.edu/ cc all
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu updb
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu cc all
+vim docroot/sites/sites.php 
+ls -al
+cd docroot/sites/
+ls -al
+cd facilities/
+ls -al
+vim settings.php 
+ls -al
+cd ../
+ls -al
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu updb
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu cc all
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu pmi ctools
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu sqlq 'select * from system where name="ctools"'
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu sqlq 'select * from system where name="page_manager"'
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu sqlq 'describe system'
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu sqlq 'select * from system where filename LIKE "sites/all"''
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu sqlq 'select * from system where filename LIKE "sites/all"'
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu sqlq 'select * from system where filename LIKE "%sites/all%"'
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu sqlq 'select * from system where filename LIKE "%sites/all/modules%"'
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu sqlq 'select name from system where filename LIKE "%sites/all/modules%"'
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu sqlq 'select name from system where filename LIKE "%sites/all/facilities/modules%"'
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu sqlq 'select name from system where filename LIKE "%sites/facilities/modules%"'
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu sqlq 'TRUNCATE TABLE cache;'
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu sqlq 'TRUNCATE TABLE cache;TRUNCATE TABLE cache_block;TRUNCATE TABLE cache_bootstrap;TRUNCATE TABLE cache_field;TRUNCATE TABLE cache_filter;TRUNCATE TABLE cache_form;TRUNCATE TABLE cache_image;TRUNCATE TABLE cache_menu;TRUNCATE TABLE cache_page;TRUNCATE TABLE cache_path;TRUNCATE TABLE cache_token;TRUNCATE TABLE cache_update;'
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu sqlq 'select * from cache'
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu sqlq 'select * from cache_update'
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu cc all
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu updb
+drush @nuofr.dev -l dev.facilities.research.northwestern.edu updb -y
+cd ccm/
+ls -al
+cd modules/
+ls -al
+cd contrib/
+ls -al
+ls
+cd ../
+ls -al
+cd _custom/
+ls
+ls -l | wc -l
+cd ../../
+ls -al
+cd libraries/
+ls -l | wc -l
+drush @nuofr.dev -l dev.ccm.northwestern.edu status
+drush @nuofr.prod -l ccm.northwestern.edu status
+drush @nuofr.dev -l dev.ccm.northwestern.edu uli
+drush @nuofr.dev -l dev.ccm.northwestern.edu pm updatestatus
+drush @nuofr.dev -l dev.ccm.northwestern.edu drush ups
+drush @nuofr.dev -l dev.ccm.northwestern.edu ups
+drush @nuofr.dev -l dev.ccm.northwestern.edu pmi views_php
+drush @nuofr.dev -l dev.ccm.northwestern.edu pmi php_filter
+drush @nuofr.dev -l dev.ccm.northwestern.edu pmi phpfilter
+cd
+cd projects/
+ls -al
+gem install wraith
+brew install imagemagick
+brew install phantomjs
+wraith setup
+gem install wraith
+wraith setup
+wraith
+gem install wraith
+wraith setup
+wraith-4.2.3
+sudo apt-get install ruby-full
+sudo npm uninstall -g wraith
+gem install wraith
+wraith setup
+wraith validate
+gem install wraith -g
+gem update wraith
+wraith validate
+cd wraith
+mkdir wraith
+cd wraith/
+ls -al
+wraith setup
+gem uninstall wraith
+gem install wraith
+wraith setup
+gem -l
+gem
+gem list --local
+wraith
+whereis wraith
+gem install libgemplugin-ruby
+brew install libgemplugin-ruby
+brew install rubygems
+ruby -v
+brew install ruby
+ruby -v
+wraith
+wraith setup
+gem install wraith
+export PATH=/usr/local/lib/ruby/
+brew --prefix ruby
+brew
+cd projects/wraith/
+ls -al
+wraith
+wraith setup
+gem install wraith
+wraith setup
+export PATH=/usr/local/lib/ruby/gems/2.5.0/bin:$PATH
+export PATH=/usr/local/opt/ruby/bin:$PATH
+brew --prefix ruby
+l /usr/local/opt/ruby
+which sass
+gem environment
+export PATH=~/.gem/ruby/2.0.0/bin:$PATH
+source ~/.bash_profile 
+wraith setup
+vim configs/nw-ccm.yaml
+wraith capture configs/nw-ccm.yaml 
+ls -al
+vim configs/nw-ccm.yaml
+rm -Rf llsorg/
+ls -al
+wraith capture configs/nw-ccm.yaml 
+ls -al
+cd NorthWestern/
+ls -al
+vim configs/nw-ccm.yaml
+cd ../
+vim configs/nw-ccm.yaml 
+wraith capture configs/nw-ccm.yaml 
+cd ../nuofr-prod/docroot/sites/facilities/
+ls -al
+cd modules/
+ls -al
+cd contrib/
+ls -al
+ls -l | wc -l
+cd ../
+ls -al
+cd _custom/
+ls -al
+ls -l | wc -l
+cd ../
+ls -al
+cd ../libraries/
+ls -l | wc -l
+drush @nuofr.dev -l http://dev.facilities.research.northwestern.edu pms
+drush @nuofr.dev -l http://dev.facilities.research.northwestern.edu ups
+drush @nuofr.dev -l http://dev.facilities.research.northwestern.edu rr
+drush @nuofr.dev -l http://dev.facilities.research.northwestern.edu cc all
+drush @nuofr.dev -l http://dev.facilities.research.northwestern.edu ups
+cd ~/projects/wraith/
+cp configs/nw-ccm.yaml configs/nw-facilities.yaml
+vim configs/nw-facilities.yaml 
+cd ../
+ls -al
+cd okr/
+ls -al
+cd docroot/themes/contrib/cog/
+ls -al
+git status
+ls -al
+pstorm .
+cd ../../../../
+ls -al
+vagran up
+vim ~/.bash_profile 
+blt
+composer install
+php -v
+brew unlink php@5.6
+brew link php@7.1
+php -v
+brew link php@7.1 --force
+php -v
+echo 'export PATH="/usr/local/opt/php@7.1/bin:$PATH"' >> ~/.bash_profile
+echo 'export PATH="/usr/local/opt/php@7.1/sbin:$PATH"' >> ~/.bash_profile
+php -v
+source ~/.bash_profile 
+php -v
+brew link php@7.1
+php -v
+composer install
+cd projects/learning-ui-patterns/
+ls -al
+vagrant up
+brew update && brew reinstall php71
+vagrant reload
+vagrant destroy
+vagrant up
+vagrant reload
+vagrant
+vagrant hault
+vagrant halt
+vagrant up
+cd docroot/themes/custom/uip_theme/
+ls -al
+cd ../
+drush dl emulsify
+composer require drupal/emulsify
+cd ../../../
+composer require drupal/emulsify
+drush cc drush
+drush
+drush cog
+cd docroot/
+drush cog
+drush
+cd themes/custom/
+ls -al
+drush
+cd uip_theme/
+drush
+drush cog
+cd ../../
+cd contrib/
+ls -al
+cd ../../../
+ls -al
+drush generate cog
+history | grep cog
+drush @learn-uip.local generate cog
+vagrant up
+vim ../learning-ui-patterns/docroot/sites/default/settings.php 
+vim ../learning-ui-patterns/docroot/sites/default/settings/local.settings.php 
+ls -al
+blt
+blt drupal:install
+blt setup
+blt doctor
+cd ../learning-ui-patterns/
+blt setup
+blt doctor
+blt @local.learn-uip doctor
+blt
+blt drupal:config:import
+vagrant box update
+drush sa
+drush @learn-uip.local status
+drush @learn-uip.local cim
+drush @learn-uip.local config-get "system.site" uuid
+drush @learn-uip.local cim
+composer install
+drush @learn-uip.local cim
+ls -al
+drush @learn-uip.local cog
+drush @learn-uip.local gen cog
+ls -al
+cd docroot/themes/custom/patterns/
+ls -al
+npm install
+gulp
+grun build
+grunt build
+grunt
+gulp build
+gulp
+cd ../../contrib/emulsify/
+ls -al
+composer install
+ls -al
+npm install
+npm start
+drush en components unified_twig_ext -y
+drush @learn-uip.local en components unified_twig_ext -y
+drush @covermoreaus.prod -l https://www.covermore.com.au uli
+drush acquia-update
+drush @pwcnewsportal.prod status
+drush @pwcnewsportal.dev status
+drush @pwcnewsportal.dev pmi lightning
+cd projects/pwcnewsportal-prod/
+ls -al
+vim composer.json 
+cd ../../custom/patterns/
+gulp
+cd ../../custom/patterns/
+gulp
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ uli
+drush @covermoreaus.prod -l https://www.covermore.com.au/ uli
+drush @pwcnewsportal.prod status
+cd projects/Acquia/ac_cm_migration/
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin develop
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+pstorm docroot/modules/custom/pwc_rest_services/src/Plugin/rest/resource/
+drush status
+ls -al
+composer require drupal/drupal 8.3.9
+drush @pwcnewsportal.dev pmi pwc_rest_services
+grunt
+grunt
+gulp
+vagrant status
+vagrant up
+cd ../
+ls -al
+cd ../
+cd ../modules/custom/
+ls -al
+cd cog_tools/
+ls -al
+git status
+git remote -v
+git fetch --all
+ls -al
+git checkout -b sarahjean-issue-2 8.x-1.x
+git status
+drush cc drush
+drush @learn-uip.local gen cog
+git fetch --all
+git remote add upstream git@github.com:acquia-pso/cog_tools.git
+git remote -v
+git fetch --all
+git checkout 8.x-1.x
+git status
+git reset --hard upstream/8.x-1.x
+git push origin 8.x-1.x
+git reset --hard
+git status
+git git pull https://github.com/sarahjean/cog_tools.git issue-2
+git pull https://github.com/sarahjean/cog_tools.git issue-2
+drush @learn-uip.local gen cog
+cd ../../../themes/custom/test_pattern_lab/
+ls -al
+chmod +x scripts/install-pattern-lab.sh
+./scripts/install-pattern-lab.s
+./scripts/install-pattern-lab.sh
+ls -al
+cd pattern-lab/
+ls -al
+cd ../
+ls -al
+cd patterns/
+ls -al
+cd ../pattern-lab/
+ls -al
+cd core/scripts
+core/console
+ls -al
+core/console
+chmod +x core/console
+./core/console
+core/console
+gulp
+npm install
+gulp
+gulp patternlab:build
+php core/builder.php -gpn
+php core/console -gpn
+php core/console --export
+cd ../
+ls -al
+cd pattern-lab && php core/console --server --with-watch
+vagrant status
+vagrant up
+ls -al
+composer install
+php core/console --export
+ls -al
+cd ../
+ls -al
+npm install @pattern-lab/starterkit-mustache-demo
+ls -al
+ls -al patterns/
+cd pattern-lab/
+ls -al
+php core/console --export
+cd../
+cd ../
+gulp patternlab:loadstarterkit --kit=@pattern-lab/starterkit-mustache-demo
+pattern-lab/core/console --kit=@pattern-lab/starterkit-mustache-demo
+php pattern-lab/core/console --kit=@pattern-lab/starterkit-mustache-demo
+php pattern-lab/core/console --starterkit
+php pattern-lab/core/console -kij @pattern-lab/starterkit-mustache-demo
+php pattern-lab/core/console -export
+cd pattern-lab
+php core/console --starterkit --init
+php core/console --starterkit --install pattern-lab/starterkit-twig-drupal-minimal
+php pattern-lab/core/console -export
+php core/console -export
+php core/console --export
+drush @learn-uip.local cc all
+drush @learn-uip.local cr
+php core/console
+npm install git@github.com:vyasamit2007/mayflower.git
+cd ../
+ls -al
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin develop
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin $branch
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin $branch
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ uli
+drush @pwcnewsportal.dev cc all
+drush @pwcnewsportal.dev cr
+drush @pwcnewsportal.dev registry-rebuild
+drush @pwcnewsportal.dev -l news-dev.pwc.com registry-rebuild
+drush @pwcnewsportal.dev -l news-dev.pwc.com status
+drush @pwcnewsportal.dev status
+drush @pwcnewsportal.dev cr -y
+drush @pwcnewsportal.dev pmi memcache
+vim docroot/modules/contrib/memcache/src/DrupalMemcached.php
+drush @pwcnewsportal.dev updb
+drush @pwcnewsportal.dev uli
+drush @pwcnewsportal.dev ssh
+cd ../learning-ui-patterns/
+drush @learn-uip.local status
+vagrant up
+history | grep phpcs
+ls -al
+cd docroot/
+ls -al
+phpcs --standard=PHPCompatibility --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md core/
+phpcs
+composer global require "phpcompatibility/php-compatibility=*"
+phpcs --config-set installed_paths /Users/amit.vyas/.composer/vendor/phpcompatibility/php-compatibility
+phpcs -p core --standard=PHPCompatibility --report-full=report-full.txt --report-source=report-source.txt --report-summary=report-summary.txt --report-width=255 --extensions=php,inc,module
+ls -al
+vim report-summary.txt 
+vim report-full.txt 
+vim core/modules/views/src/ViewExecutable.php 
+vim report-full.txt 
+cd ../pwcnewsportal-prod/
+composer install
+vim core/modules/views/src/ViewExecutable.php 
+ls -al
+ls -al
+cd docroot/
+ls -al
+cd ../
+ls -al
+blt setup
+git branch -a
+git fetch --all
+git checkout php7_upgrade
+git reset --hard
+git checkout php7_upgrade
+git reset --hard upstream/php7_upgrade
+git reset --hard origin/php7_upgrade
+ls -al
+cd docroot/
+phpcs -p core --standard=PHPCompatibility --report-full=report-full.txt --report-source=report-source.txt --report-summary=report-summary.txt --report-width=255 --extensions=php,inc,module
+phpcs -p core --standard=PHPCompatibility --report-full=report-full.txt --report-source=report-source.txt --report-summary=report-summary.txt --report-width=255 --extensions=php,inc,module,install
+ls -al
+vim report-summary.txt 
+vim report-full.txt 
+php -v
+ls -al
+vim report-full.txt
+ls -al
+cd core/
+ls -al
+cd ../../pwcnewsportal-prod/docroot/
+ls -al
+vim report-full.txt 
+phpcs -p . --standard=PHPCompatibility --report-full=report-full.txt --report-source=report-source.txt --report-summary=report-summary.txt --report-width=255 --extensions=php,inc,module,install
+ls -al
+vim report-full.txt
+vim report-summary.txt
+ls -al
+cd ..
+ls -al
+cd ../
+ls -al
+export PHP_ID=php5_5; export PATH="/Applications/DevDesktop/$PHP_ID/bin:/Applications/DevDesktop/mysql/bin:/Applications/DevDesktop/tools:$PATH" && cd "/Users/amit.vyas/projects/pwcnewsportal-prod/docroot"
+phpcs -p . --standard=PHPCompatibility --report-full=report-full.txt --report-source=report-source.txt --report-summary=report-summary.txt --report-width=255 --extensions=php,inc,module,install
+phpcs -p core --standard=PHPCompatibility --report-full=report-full.txt --report-source=report-source.txt --report-summary=report-summary.txt --report-width=255 --extensions=php,inc,module,install
+php -v
+export PHP_ID=php7_1; export PATH="/Applications/DevDesktop/$PHP_ID/bin:/Applications/DevDesktop/mysql/bin:/Applications/DevDesktop/tools:$PATH" && cd "/Users/amit.vyas/projects/pwcnewsportal-prod/docroot"
+php -v
+cd core
+ls -al
+phpcs --config-get installed_paths
+phpcs --config
+phpcs -i
+phpcs --config-set severity 1
+phpcs -p . --standard=PHPCompatibility --report-full=report-full.txt --report-source=report-source.txt --report-summary=report-summary.txt --report-width=255 --extensions=php,inc,module,install
+phpcs --config-set severity 1
+vim ~/.composer/vendor/squizlabs/php_codesniffer/CodeSniffer.conf
+cd ../../learning-ui-patterns/
+ls -al
+cd docroot/
+ls -al
+vim report-summary.txt 
+phpcs -p . --standard=PHPCompatibility --report-full=report-full.txt --report-source=report-source.txt --report-summary=report-summary.txt --report-width=255 --extensions=php,inc,module,install
+which php.ini
+php -v
+which php
+cd /usr/local/opt/php@7.1/
+ls -al
+phpcs -v
+phpcs --version
+cd ../../
+ls -al
+cd ../
+ls -al
+cd
+drush @pwcnewsportal.dev -l https://news-dev.pwc.com/ cr
+drush @pwcnewsportal.dev -l https://news-dev.pwc.com
+drush @pwcnewsportal.dev -l https://news-dev.pwc.com -vvv
+drush @pwcnewsportal.dev sqlq 'select status from system where name='memcache'
+'
+drush @pwcnewsportal.dev sqlq "select status from system where name='memcache'"
+drush @pwcnewsportal.dev pmu memchache
+drush eval "\$module_data = \Drupal::config('core.extension')->get('module'); unset(\$module_data['MODULE_NAME']); \Drupal::configFactory()->getEditable('core.extension')->set('module', \$module_data)->save();"
+drush @pwcnewsportal.dev eval "\$module_data = \Drupal::config('core.extension')->get('memcache'); print_r($module_data);"
+drush @pwcnewsportal.dev cr
+drush @pwcnewsportal.dev sqlq "select * from config where name = 'core.extension'"
+drush @pwcnewsportal.dev sqlq "describe config"
+drush @pwcnewsportal.dev updb
+drush @pwcnewsportal.dev cim
+cd projects/pwcnewsportal-prod/docroot/
+cd modules/contrib/memcache/
+ls -al
+vim memcache.info.yml 
+cd ../../../../
+vim composer.json 
+ls -al
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ uli
+drush @covermoreaus.prod -l https://covermore.com.au/ uli
+vagrant status
+cd ../
+vagrun suspend
+vagrant hault
+vagrant halt
+export PHP_ID=php7_1; export PATH="/Applications/DevDesktop/$PHP_ID/bin:/Applications/DevDesktop/mysql/bin:/Applications/DevDesktop/tools:$PATH" && cd "/Users/amit.vyas/projects/pwcnewsportal-prod/docroot"
+/Applications/DevDesktop/mysql/bin/mysqld --defaults-file=/Applications/DevDesktop/mysql/my.cnf
+/Applications/DevDesktop/mysql/bin/mysqld --defaults-file=/Applications/DevDesktop/mysql/my.cnf 
+tail -50 /Applications/DevDesktop/mysql/data/mysql.err
+cd /Applications/DevDesktop/mysql/
+ls -al
+ls -al ../
+ls -al
+cd data/
+ls -al
+rm -Rf llsorg_test
+ls -al
+tail -50 /Applications/DevDesktop/mysql/data/mysql.err
+export PHP_ID=php7_1; export PATH="/Applications/DevDesktop/$PHP_ID/bin:/Applications/DevDesktop/mysql/bin:/Applications/DevDesktop/tools:$PATH" && cd "/Users/amit.vyas/projects/pwcnewsportal-prod/docroot"
+tail -50 /Applications/DevDesktop/mysql/data/mysql.err
+/Applications/DevDesktop/mysql/bin/mysqld --defaults-file=/Applications/DevDesktop/mysql/my.cnf
+tail -50 /Applications/DevDesktop/mysql/data/mysql.err
+tail -100 /Applications/DevDesktop/mysql/data/mysql.err
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin $branch
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+branch=develop ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin $branch
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com updb
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com fra -y
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+history | grep 'release-1.2.0'
+git fetch --all
+git checkout release-1.3.0
+git reset --hard github/release-1.3.0
+git push origin release-1.3.0
+history | grep 'covermoreaus.test'
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ updb -y
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ cc all
+drush @covermoreaus.prod -l https://www.covermore.com.au vset page_cache_maximum_age 84600
+cd
+ls -al
+git status
+cd projects/dotfiles/
+git status
+git add *
+git status
+git add src/vim/vim/plugins/tern_for_vim
+git status
+git log
+git status
+git remote -v
+git remote add upstream git@github.com:alrra/dotfiles.git
+git remote -v
+git fetch --all
+git pull upstream/master
+git pull upstream master
+git sttus
+git status
+git commit -m 'vyasamit2007-00: Added specific changes.'
+git remote -v
+git push origin master
+git remote -d upstream
+git remote remove upstream
+git remote -v
+git remote rename origin upstream
+git remote -v
+git remote add origin git@github.com:vyasamit2007/dotfiles.git
+git remote -v
+git fetch --all
+git push origin master
+git pull upstram master
+git remote remove uptstream
+git remote remove upstream
+git remote add upstream git@github.com:alrra/dotfiles.git
+git fetch --all
+git pull upstream master
+vim src/vim/vim/plugins/vim-signify
+ls -al
+vim src/vim/vim/plugins/vim-signify/
+cd src/vim/vim/plugins/vim-signify
+ls -al
+git status
+vim showcolors.bash 
+ls -al
+cd ../../../../
+cd ../
+git status
+git merge --continue
+ls -al
+cd ../
+ls -al
+cd ../
+ls -al
+vim projects/dotfiles/src/vim/vim
+ls -al
+cd projects/dotfiles/
+ls -al
+git pull --abort
+git pull
+git status
+git reset --hard upstream/master
+git status
+git reset --hard origin/master
+git status
+ls -al
+git status
+git rebase upstream/master
+git status
+git reset --hard
+git status
+git rebase --abort
+git status
+git add src/vim/vim/plugins/tern_for_vim/*
+git fetch --all
+composer require drupal/memcache 2.0-rc2
+vim composer.json 
+vim docroot/modules/contrib/memcache/memcache.info.yml 
+composer require drupal/memcache 2.0-rc2 --no-update
+composer update --lock
+drush @covermoreaus.test -l https://covermoreausstg.prod.acquia-sites.com/ uli
+cd docroot/modules/
+ls -al
+cd contrib/
+history | grep 'ls -al'
+ls -l | wc -l
+cd ../custom/
+ls -l | wc -l
+cd ../../libraries/
+ls -l | wc -l
+history | grep 'drush'
+drush @pwcnewsportal.prod -l news.pwc.com status
+drush @pwcnewsportal.prod -l news.pwc.com ups
+drush @pwcnewsportal.prod -l news.pwc.com pmi views_php
+cd ../modules/contrib/
+ls -al
+cd ../../../
+cd docroot/
+ls -al
+vim .htaccess 
+git fetch --all
+git reset --hard
+git reset --hard origin/php7_upgrade
+git log
+git diff ad340e12aa749eddb00c17b1607062131348d951
+branch=master ; git fetch --all ; git checkout $branch ; git reset --hard github/$branch ; git push origin $branch
+tag=cm_release_1.3.0 ; tag_comment="CoverMore CD team sprints & issues fixed in the sprints." ; git tag $tag -a -m "$tag_comment" ; git push github $tag ; git push origin $tag
+drush @covermoreaus.prod -l https://www.covermore.com.au uli
+drush @covermoreaus.prod -l https://www.covermore.com.au vset page_cache_maximum_age 21600
+git status
+vim docroot/.htaccess 
+git status
+git diff
+vim docroot/.htaccess 
+git diff
+vim /etc/hosts
+sudo vim /etc/hosts
+cp docroot/.htaccess ../../CoverMore/docroot/
+cd projects/CoverMore/
+vim docroot/.htaccess 
+vagran up
+ls -al
+vagrant up
+vim Vagrantfile 
+vim box/config.yml 
+git status
+git diff
+vim docroot/.htaccess 
+git diff
+vagrant reload
+drush @covermoreaus.dev -l http://covermoreausdev.prod.acquia-sites.com/ cc all
+drush @covermoreaus.dev.livedev ssh
+vim docroot/.htaccess 
+git diff
+git status
+git add docroot/.htaccess 
+git status
+git commit -m 'COV-00: Hot fix the SSL issue for the redirects of covermore domain.'
+git push
+git remote -v
+git status
+git push github master
+tag=cm_release_1.3.1 ; tag_comment="Hotfix CoverMore redirects issue with SSL certificate" ; git tag $tag -a -m "$tag_comment" ; git push github $tag ; git push origin $tag
+drush sa
+drush @covermore.prod cc all
+drush @covermoreaus.prod -l https://www.covermore.com.au uli
+ls -al
+vim docroot/.htaccess 
+git status
+git diff
+git add docroot/.htaccess 
+git status
+git commit -m 'COV-00: Removing the htaccess changes for HTTPS & redirect domain to WWW.'
+git push github master
+git push
+git push origin master
+ls -al
+cat .bash_aliases 
+ls -al
+cat .bash.local
+vim .bash_autocomplete 
+ls -al
+cd projects/pwcnewsportal-prod/
+git fetch --all
+git remote -v
+git reset --hard origin/php7_upgrade
+git checkout -b php7_upgrade_saml-fix
+composer require drupal/simplesamlphp_auth 3.0-rc6
+vim composer.json 
+composer require drupal/simplesamlphp_auth 3.0-rc6
+vim composer.
+vim composer.json 
+composer update drupal/simplesamlphp_auth 3.0-rc6
+composer update drupal/simplesamlphp_auth:3.0-rc6
+composer update drupal/simplesamlphp_auth 3.0
+composer update drupal/simplesamlphp_auth 8.x-3.0-rc6
+composer update drupal/simplesamlphp_auth:3.0-rc6
+vim blt/project.yml 
+ls -al
+vim composer.json 
+composer update
+composer update drupal/simplesamlphp_auth
+composer remove robrichards/xmlseclibs
+composer require robrichards/xmlseclibs 3.0.0
+vim composer.json 
+git reset --hard origin/php7_upgrade
+git reset --hard
+cd docroot/
+drush status
+drush dl --select simplesamlphp_auth
+cd modules/contrib/simplesamlphp_auth/
+composer install
+git status
+ls -al
+ls -al vendor/
+ls -al vendor/simplesamlphp/
+cp -Rf vendor/simplesamlphp ../../../../vendor/simplesamlphp
+cd ~/projects/pwcnewsportal-prod/vendor/
+cd simplesamlphp/
+ls -al
+cd simplesamlphp/
+ls -al
+cd ../../
+cd ../
+git status
+drush dl --select simplesamlphp_auth
+mv simplesamlphp_auth/ docroot/modules/contrib/
+rm -Rf docroot/modules/contrib/simplesamlphp_auth/
+mv simplesamlphp_auth/ docroot/modules/contrib/
+git status
+git add docroot/modules/contrib/simplesamlphp_auth/
+git add vendor/simplesamlphp/
+git status
+git clean -df
+git status
+git commit -m 'PWC-00: Updated simplesamlphp_auth module and related library.'
+git commit -m 'PWC-00: Updated simplesamlphp_auth module and related library.' -n
+git push
+git status
+git checkout php7_upgrade
+git checkout -b php7_upgrade_setting-fix
+vim simplesamlphp/config/acquia_config.php 
+git status
+git add simplesamlphp/config/acquia_config.php
+git status
+git commit -m 'PWC-00: updated acquia settings to database.'
+git commit -m 'PWC-00: updated acquia settings to database.' -n
+git push
+git push --set-upstream origin php7_upgrade_setting-fix
+blt setup
+git reset --hard docroot/modules/contrib/memcache/
+git checkout docroot/modules/contrib/memcache/
+blt setup
+rm -Rf docroot/modules/contrib/memcache/
+blt setup
+composer update
+blt
+vim vendor/simplesamlphp/simplesamlphp/config/acquia_config.php 
+git add vendor/simplesamlphp/simplesamlphp/config/acquia_config.php
+git status
+git clean -df
+git reset --hard
+git status
+vim vendor/simplesamlphp/simplesamlphp/config/acquia_config.php 
+git status
+git add vendor/simplesamlphp/simplesamlphp/config/acquia_config.php
+git diff
+git commit -m 'PWC-00: updating the config for simplesamlphp library acquia config file in vendor folder.'
+git commit -m 'PWC-00: updating the config for simplesamlphp library acquia config file in vendor folder.' -n
+git push
+git log
+git diff origin/php7_upgrade
+vim simplesamlphp/config/acquia_config.php 
+git rebase -i HEAD~3
+git commit -m 'PWC-00: Updated config for acquia simplesaml.'
+git commit -m 'PWC-00: Updated config for acquia simplesaml.' -n
+git add simplesamlphp/config/acquia_config.php
+git commit -m 'PWC-00: Updated config for acquia simplesaml.' -n
+git rebase -i HEAD~3
+git log
+git push
+git push -f
+git diff origin/php7_upgrade
+git diff origin/php7_upgrade > saml-fix.patch
+git diff
+git log
+git diff 5923891a1036269426d48aea79d5c60ae0ab92c4
+git diff 5923891a1036269426d48aea79d5c60ae0ab92c4 > RemoveHTAccessFileChanges.patch
+drush @pwcnewsportal.prod ssh
+git status
+git reset --hard
+git clean -df
+git status
+vim docroot/modules/contrib/memcache/src/MemcacheSettings.php 
+vim docroot/modules/contrib/memcache/src/DrupalMemcacheInterface.php 
+cd docroot/modules/contrib/memcache/src/Cache/
+ls -al
+cd ../
+ls -al
+vim MemcacheException.php 
+ls -al
+git status
+git log
+git diff db612fb54c9ae5c59ad9ba48d8c8cd51d1b68ea0
+ls -al
+cd
+ls -al
+cd projects/dotfiles/
+git status
+git log
+git status
+git remote -v
+git fetch --all
+git push origin master
+git add src/vim/vim/plugins/*
+git status
+cd
+ls -al
+history | grep 'ln -s'
+vim .bash.local 
+ls -al
+cd .ssh/
+ls -al
+cd ../
+ls -al
+cd .ssh/
+ls -al
+git config --global -l
+cd ../
+ls -al

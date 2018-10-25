@@ -15,4 +15,5 @@ ln -s ~/projects/dotfiles/src/shell/bash_functions .bash_functions
 ln -s ~/projects/dotfiles/src/shell/bash_exports .bash_exports
 ln -s ~/projects/dotfiles/src/shell/autocomplete/macos/bash_autocomplete .bash_autocomplete
 ln -s ~/projects/dotfiles/src/shell/aliases/bash_aliases .bash_aliases
+ln -s ~/projects/dotfiles/src/shell/aliases/bash_history .bash_history
 ln -s ~/projects/dotfiles/src/ssh .ssh
