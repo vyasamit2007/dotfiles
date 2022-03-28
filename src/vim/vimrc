@@ -134,7 +134,7 @@ filetype off
 
 " Include Vundle in the runtime path.
 
-set runtimepath+=~/.vim/plugins/Vundle.vim
+set runtimepath+=~/.vim/bundle/Vundle.vim
 
 " - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 

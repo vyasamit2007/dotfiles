@@ -4,3 +4,7 @@
     && . ~/.bash_profile
 
 export PATH="$PATH:/Applications/DevDesktop/tools"
+
+export PATH="$PATH:/Applications/DevDesktop/drush_9"
+
+export PATH="$PATH:/Applications/DevDesktop/drush_10"

@@ -83,3 +83,7 @@ export GEM_PATH="$HOME/.gem/ruby/2.0.0"
 export PATH="$PATH:/Applications/DevDesktop/tools"
 export PATH="/usr/local/opt/php@7.1/bin:$PATH"
 export PATH="/usr/local/opt/php@7.1/sbin:$PATH"
+
+export PATH="$PATH:/Applications/DevDesktop/drush_9"
+
+export PATH="$PATH:/Applications/DevDesktop/drush_10"
